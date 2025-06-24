@@ -8,7 +8,7 @@ on:
   schedule:
     # Run every 9 minutes
     - cron: "0 6 * * *"
-    workflow_dispatch:  # 手动触发
+  workflow_dispatch:  # 手动触发
 
 jobs:
   build:
