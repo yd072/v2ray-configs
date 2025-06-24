@@ -81,7 +81,7 @@ def main():
 
     ]
     dir_links = [
-        "https://raw.githubusercontent.com/itsyebekhe/HiN-VPN/main/subscription/normal/mix"
+        # "https://raw.githubusercontent.com/itsyebekhe/HiN-VPN/main/subscription/normal/mix"
 
     ]
 
