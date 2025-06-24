@@ -11,8 +11,8 @@ TIMEOUT = 20  # seconds
 fixed_text = """#profile-title: base64:8J+GkyBHaXRodWIgfCBCYXJyeS1mYXIg8J+ltw==
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/Epodonios/v2ray-configs
-#profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+#support-url: https://github.com/yd072/v2ray-configs
+#profile-web-page-url: https://github.com/yd072/v2ray-configs
 """
 
 # Base64 decoding function
@@ -77,30 +77,12 @@ def main():
 
     protocols = ["vmess", "vless", "trojan", "ss", "ssr", "hy2", "tuic", "warp://"]
     links = [
-        "https://raw.githubusercontent.com/MrPooyaX/VpnsFucking/main/BeVpn.txt",
-        "https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/base64/mix",
-        "https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt",
-        "https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray",
-        "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/reality",
-        "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/vless",
-        "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/vmess",
-        "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/trojan",
-        "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/shadowsocks",
-        "https://raw.githubusercontent.com/ts-sf/fly/main/v2",
-        "https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2",
-        "https://mrpooya.top/SuperApi/BE.php",
-        "https://raw.githubusercontent.com/MrPooyaX/VpnsFucking/main/BeVpn.txt"
+        "https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2"
+
     ]
     dir_links = [
-        "https://raw.githubusercontent.com/IranianCypherpunks/sub/main/config",
-        "https://raw.githubusercontent.com/sashalsk/V2Ray/main/V2Config",
-        "https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.txt",
-        "https://raw.githubusercontent.com/itsyebekhe/HiN-VPN/main/subscription/normal/mix",
-        "https://raw.githubusercontent.com/sarinaesmailzadeh/V2Hub/main/merged",
-        "https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUBSCRIPTION_LINK/main/v2rayconfigs.txt",
-        "https://raw.githubusercontent.com/Everyday-VPN/Everyday-VPN/main/subscription/main.txt",
-        "https://raw.githubusercontent.com/C4ssif3r/V2ray-sub/main/all.txt",
-        "https://mrpooya.top/SuperApi/V7pRO.php"
+        "https://raw.githubusercontent.com/itsyebekhe/HiN-VPN/main/subscription/normal/mix"
+
     ]
 
     decoded_links = decode_links(links)
@@ -146,8 +128,8 @@ def main():
         custom_fixed_text = f"""#profile-title: base64:{encoded_title}
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/Epodonios/v2ray-configs
-#profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+#support-url: https://github.com/yd072/v2ray-configs
+#profile-web-page-url: https://github.com/yd072/v2ray-configs
 """
 
         input_filename = os.path.join(output_folder, f"Sub{i + 1}.txt")
