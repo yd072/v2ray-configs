@@ -78,7 +78,8 @@ def main():
     protocols = ["vmess", "vless", "trojan", "ss", "ssr", "hy2", "tuic", "warp://"]
     links = [
         "https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2",
-        "https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt"
+        "https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt",
+        "https://github.com/Aclashv2rayfree/freev2raynode"
 
     ]
     dir_links = [
