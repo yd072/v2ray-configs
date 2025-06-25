@@ -79,7 +79,7 @@ def main():
     links = [
         "https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2",
         "https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt",
-        "https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/refs/heads/main/sub/United%20States/config.txt"
+        "https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/base64.txt"
 
     ]
     dir_links = [
