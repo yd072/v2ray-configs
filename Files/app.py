@@ -79,7 +79,7 @@ def main():
     links = [
         "https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2",
         "https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt",
-        "https://github.com/Aclashv2rayfree/freev2raynode"
+        "https://raw.githubusercontent.com/Aclashv2rayfree/freev2raynode/refs/heads/main/README.md"
 
     ]
     dir_links = [
