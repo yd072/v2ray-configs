@@ -1,44 +1,53 @@
-name: Update Configs
-permissions: write-all
+name: Custom IP Speed Test with Auto Commit and Custom Params
 
 on:
-  push:
-    branches:
-      - main
+  workflow_dispatch:
   schedule:
-    # Run every 9 minutes
-    - cron: "0 */3 * * *"
-  workflow_dispatch:  # 手动触发
+    - cron: '0 3 * * *'  # 每天UTC凌晨3点自动运行
 
 jobs:
-  build:
+  speedtest:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
-
-    - name: Set up Python
-      uses: actions/setup-python@v2
+    - name: Checkout repository
+      uses: actions/checkout@v3
       with:
-        python-version: '3.11'
+        persist-credentials: true  # 保证使用 GITHUB_TOKEN
+        fetch-depth: 0  # 保证全量拉取
 
-    - name: Install dependencies
-      run: cd Files && pip install -r requirements.txt
+    - name: Download CloudflareSpeedTest
+      run: |
+        curl -L -o cfst.tar.gz https://github.com/XIU2/CloudflareSpeedTest/releases/latest/download/CloudflareST_linux_amd64.tar.gz
+        tar -xzf cfst.tar.gz
+        chmod +x CloudflareST
 
-    - name: Run Python script and save output to file
-      run: cd Files && python app.py
-      
-    - name: Run Splitter script and save output to file
-      run: cd Files && python sort.py
+    - name: Run speed test with custom IP list and parameters
+      run: |
+        ./CloudflareST -f my_ips.txt -url https://cs.yoo.cloudns.be/100m -tl 200 -sl 10 -tp 443 -dn 10 -o result.csv
 
-    - name: Commit and push files
-      uses: EndBug/add-and-commit@v7
-      with:
-        author_name: "Epodonios"
-        author_email: "epodonios@github.com"
-        message: "Fresh🔥❤️‍🔥🎆"
-        add: "."
-        push: "https://github.com/yd072/v2ray-configs.git"
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Generate best_ips.txt from CSV
+      run: |
+        cut -d, -f1 result.csv | sed '1d' > best_ips.txt
+        cat best_ips.txt
+
+    - name: Commit and push best_ips.txt
+      run: |
+        # 配置 git 用户信息
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+        # 使用 GITHUB_TOKEN 认证推送
+        git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+
+        # 确保切换到正确的分支
+        git checkout main  # 如果你的默认分支是 main，确保执行这个
+
+        # 如果 best_ips.txt 文件有变化，提交并 push
+        if ! git diff --quiet best_ips.txt; then
+          git add best_ips.txt
+          git commit -m "Auto update best_ips.txt from speed test [skip ci]"
+          git push
+        else
+          echo "No changes to best_ips.txt, skip commit."
+        fi
