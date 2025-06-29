@@ -6,9 +6,9 @@ on:
     branches:
       - main
   schedule:
-    # Run every 9 minutes
-    - cron: "0 */3 * * *"
-  workflow_dispatch:  # 手动触发
+    # Run every 15 minutes
+    - cron: "* 3 * * *"
+   workflow_dispatch:  # 手动触发  
 
 jobs:
   build:
@@ -35,10 +35,8 @@ jobs:
     - name: Commit and push files
       uses: EndBug/add-and-commit@v7
       with:
-        author_name: "Epodonios"
-        author_email: "epodonios@github.com"
         message: "Fresh🔥❤️‍🔥🎆"
         add: "."
-        push: "https://github.com/yd072/v2ray-configs.git"
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        push: "https://github.com/${{ github.repository }}.git"
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
