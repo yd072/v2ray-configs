@@ -3,48 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/yd072/v2ray-configs
 #profile-web-page-url: https://github.com/yd072/v2ray-configs
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@102.177.176.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#ZA_speednode_0241
-ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507121073737-BbgY2abS77.download.microsoft.com#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
-ss://YWVzLTI1Ni1nY206ODIzZTEzNWVkMTAz@137.220.191.40:636?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fdchlbvrbbotc%3Bhost%3Djp7v1.lingjfjkm002.com%3Btls#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
-ss://YWVzLTI1Ni1nY206OWJmZGRlNzFiNGMw@103.103.245.158:636?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fcauejypbltqt%3Bhost%3Dnewroot2v1.dsjsapp.com%3Btls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
-ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507121073737-BbgY2abS77.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-
-vless://bce0c7cb-08d1-46a7-b77b-7bff8b46252f@172.67.177.109:443?encryption=none&security=tls&type=grpc&authority=&serviceName=Ryxyg63Pk7cFSn5Ttq58yozYn&mode=gun#%E7%94%B5%E6%8A%A5%E7%BE%A4%EF%BC%9Ahttps%3A%2F%2Ft.me%2Fvvkj11
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1NkJDRlx1NTkyOVx1NjZGNFx1NjVCMFx1RkYwQ1x1OEJGN1x1NTJBMFx1NzUzNVx1NjJBNVx1N0ZBNFx1OTYzMlx1NkI2Mlx1NTkzMVx1ODA1NCIsDQogICJhZGQiOiAicnUyYS0yMDI1MDQyMC44ODg4ODAwOS54eXoiLA0KICAicG9ydCI6ICI4MCIsDQogICJpZCI6ICJjOTdjZjQ2ZS0xNTU0LTM2Y2ItOGIzNi1jMzU1NmI4ODNkYzQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogImh0dHB1cGdyYWRlIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
-trojan://2c605663-b89a-5734-a9d6-97d4743d72cf@gtm-sg-cc548rhv90k.spirtless.top:5301?security=tls&sni=tw-1-544.flztjc.net&type=tcp&headerType=none#%E6%97%A5%E6%9C%9F%EF%BC%9A07-14
-trojan://2c605663-b89a-5734-a9d6-97d4743d72cf@gtm-sg-cc548rhv90k.spirtless.top:8301?security=tls&sni=hk-1-560.flztjc.net&type=tcp&headerType=none#%E5%85%8D%E8%B4%B9VPN%EF%BC%9Ahttps%3A%2F%2Ftt.vg%2FgwaAy
-trojan://2c605663-b89a-5734-a9d6-97d4743d72cf@gtm-sg-cc548rhv90k.spirtless.top:8307?security=tls&sni=hk-7-564.flztjc.net&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_%E4%B8%AD%E5%9B%BD
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@154.17.239.48:34045?encryption=none&security=none&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@172.245.45.169:34045?encryption=none&security=none&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@149.28.68.215:34045?encryption=none&security=none&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://2c605663-b89a-5734-a9d6-97d4743d72cf@gtm-sg-cc548rhv90k.spirtless.top:8303?security=tls&sni=hk-3-562.flztjc.net&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_%E4%B8%AD%E5%9B%BD
-vless://5e236508-63e4-45b3-a7d7-f9cd81af89df@57.130.19.124:2055?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%A7%F0%9F%87%AA_%E6%AF%94%E5%88%A9%E6%97%B6
-trojan://a7b22c05-27fd-4a76-8896-2aebaf4cf3a1@104.21.30.167:443?security=tls&sni=TttTtTYU.2032.PP.UA&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://2c605663-b89a-5734-a9d6-97d4743d72cf@gtm-sg-cc548rhv90k.spirtless.top:5304?security=tls&sni=tw-04-590.flztjc.net&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_%E4%B8%AD%E5%9B%BD
-trojan://7248e825-887c-48b9-83bc-c26bc6392bf8@172.67.214.21:443?security=tls&sni=xXcdvFgt.191268.XYz&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://cdec9d57-661d-456a-bbf2-b4c38e9c6711@104.21.30.37:443?security=tls&sni=DDdcVfbGHy7.444682.xyz&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://2c605663-b89a-5734-a9d6-97d4743d72cf@gtm-sg-cc548rhv90k.spirtless.top:8302?security=tls&sni=hk-2-561.flztjc.net&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_%E4%B8%AD%E5%9B%BD
-trojan://f898ffcb-6417-4373-9640-0b66091e8206@104.21.22.159:443?security=tls&sni=q12.11890604.xyz&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://357b1bba-6400-4944-baff-1b933311ff28@104.21.88.226:443?security=tls&sni=XxxxxXXXXXXxXf.wwW890604.Dpdns.orG&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://fa050497-fc2a-45ee-89c0-96670c4ecb65@172.67.145.200:443?security=tls&sni=Rrr4.8906004.xYZ&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@82.23.138.5:34045?encryption=none&security=none&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7_%E8%8B%B1%E5%9B%BD
-trojan://8a104bc2-a8d1-4f38-8c29-17176a68b7d5@csgo.com:8443?security=tls&sni=cdn-node-oss-99.paofu.de&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%B0_%E4%B8%B9%E9%BA%A6
-trojan://fg20mtCFHy@pcauy.zippydeal.xyz:1739?security=tls&sni=pcauy.zippydeal.xyz&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERFOFx1RDgzQ1x1RERGM19cdTRFMkRcdTU2RkQiLA0KICAiYWRkIjogInhkZC5kYXNodWFpLmN5b3UiLA0KICAicG9ydCI6ICI0NTA3NyIsDQogICJpZCI6ICIxNDFmZTBmYi1hODA5LTRmZGYtODhjNy03YzQ2YTdiMTFlOTgiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
-trojan://03320488-a4e8-403d-8f14-1d06c2693e20@e4d7a1c2f3b80976a5e2c1d4b3f0a987.1kmei.com:23507?security=tls&sni=cn.bing.com&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_%E4%B8%AD%E5%9B%BD
-trojan://03320488-a4e8-403d-8f14-1d06c2693e20@c3b2a1f0e9d8c7b6a5f4e3d2c1b0a9f8.1kmei.com:23506?security=tls&sni=cn.bing.com&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_%E4%B8%AD%E5%9B%BD
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERFOFx1RDgzQ1x1RERGM19cdTRFMkRcdTU2RkQiLA0KICAiYWRkIjogImdoaWtrZGcyLm1pMDAwMS54eXoiLA0KICAicG9ydCI6ICIzMTAxOSIsDQogICJpZCI6ICIyZTBkMTQwOS04MWZjLTQyYmQtYjM3Zi1iZDE5MTA4NjllMTMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.59:9141?security=tls&sni=www.baidu.com&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_%E4%B8%AD%E5%9B%BD
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.59:24903?security=tls&sni=www.baidu.com&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_%E4%B8%AD%E5%9B%BD
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERFOFx1RDgzQ1x1RERGM19cdTRFMkRcdTU2RkQiLA0KICAiYWRkIjogIjQzLjI0Ny4xMzQuMTQ1IiwNCiAgInBvcnQiOiAiMjU3NDAiLA0KICAiaWQiOiAiZDcwY2E3MmEtMmI1MC00NTM2LThhYmMtZGE0ODk5NWRkOTAyIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
-trojan://aff98510-78df-452a-8fe3-ea680d055693@e4d7a1c2f3b80976a5e2c1d4b3f0a987.1kmei.com:23503?security=tls&sni=cn.bing.com&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_%E4%B8%AD%E5%9B%BD
-trojan://07a3df8f-2a2c-42f8-ad92-65889d90f3bf@104.21.26.17:443?security=tls&sni=rrrRrRRrT.459.pp.ua&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://f108e0e2-5f12-42b6-9e67-1b2f073ffb2b@172.67.219.196:443?security=tls&sni=CCcvfgt6.852224.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://fa050497-fc2a-45ee-89c0-96670c4ecb65@104.21.63.135:443?security=tls&sni=Rrr4.8906004.xYZ&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-vless://a4b1091c-8acc-4e8b-a173-20edf9ce2935@143.14.220.111:25888?encryption=none&flow=xtls-rprx-vision&security=none&sni=www.samsung.com&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://ffcf7ec1-3e09-4821-b3d9-b426a107b73b@172.67.220.32:443?security=tls&sni=eEEfGty6.999836.XYz&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://07a3df8f-2a2c-42f8-ad92-65889d90f3bf@172.67.135.37:443?security=tls&sni=rrrRrRRrT.459.pp.ua&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://288124da-0d68-42f4-9f48-70dc4dcc55a6@172.67.200.11:443?security=tls&sni=rRfGty6.890606.XYz&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.26:4447?security=tls&sni=www.baidu.com&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_%E4%B8%AD%E5%9B%BD
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.26:34719?security=tls&sni=www.baidu.com&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_%E4%B8%AD%E5%9B%BD
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERFOFx1RDgzQ1x1RERGM19cdTRFMkRcdTU2RkQiLA0KICAiYWRkIjogIjEyMC4yNi41NS4yMjUiLA0KICAicG9ydCI6ICI1MDAwMiIsDQogICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
