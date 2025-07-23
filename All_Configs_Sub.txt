@@ -992,4 +992,4 @@ vless://a1650c69-531c-441f-bc6a-bd43565000a4@104.18.205.33:443?security=tls&type
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@209.94.90.251:8880?security=none&type=ws&path=%2F&host=cf.d3z.net#%F0%9F%87%BA%F0%9F%87%B8US_27%20%7C6.0MB%2Fs%7CGPT%7CNF%7CD%2B
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@5.10.214.20:8880?security=none&type=ws&path=%2F&host=ip.langmanshanxi.top#%F0%9F%87%BA%F0%9F%87%B8US_28%20%7C8.3MB%2Fs%7CNF%7CD%2B
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.251.80.213:8880?security=none&type=ws&path=%2F&host=jp.laoyoutiao.link#%F0%9F%87%BA%F0%9F%87%B8US_29%20%7C6.3MB%2Fs%7CNF%7CD%2B
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@89.116.161.177:8880?security=none&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&host=ip.langmanshanxi.top#%F0%9F%87%AE%F0%9F%87%B9IT_1%20%7C6.8MB%2FsÛM¹Ó½·Óyã
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@89.116.161.177:8880?security=none&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&host=ip.langmanshanxi.top#%F0%9F%87%AE%F0%9F%87%B9IT_1%20%7C6.8MB%2FsÛM¹Ó½·ÓÝ·Ó
