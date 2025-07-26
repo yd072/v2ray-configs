@@ -140,7 +140,6 @@ hysteria2://196d331c-9a7d-4a8a-990e-f8babff27412@jpcn286.s2fjeyeeyafe.bond:35789
 hysteria2://196d331c-9a7d-4a8a-990e-f8babff27412@us10.s2fjeyeeyafe.bond:35789?insecure=1&sni=us10.s2fjeyeeyafe.bond#%40_%20%231
 hysteria2://22f2c759db51b3d0@109.120.135.123:12122?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=de8287cd33b05fa3#%40V2rayNG3%20%232
 hysteria2://27e473f8-d610-4b04-bdf7-d0c39b47c897@23.80.81.213:45000?insecure=1&sni=www.apple.com#10%20https%3A//dafei.de
-hysteria2://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@79.72.81.183:30000?insecure=1&sni=www.apple.com#%40ata_connect%20%20%20%20%20%20%20
 hysteria2://39c3ffc8-5861-4fd5-a35d-8108471234fa@nexiabx.688997.xyz:20857?insecure=1&sni=nexiabx.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#TEL%20%3E%20%40SaghiVpnXBOT-%20
 hysteria2://39c3ffc8-5861-4fd5-a35d-8108471234fa@nexiadg.688997.xyz:20557?insecure=1&sni=nexiadg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#TEL%20%3E%20%40SaghiVpnXBOT-%20%20%231
 hysteria2://39c3ffc8-5861-4fd5-a35d-8108471234fa@nexiahg.688997.xyz:20357?insecure=1&sni=nexiahg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#TEL%20%3E%20%40SaghiVpnXBOT-%20%20%232
@@ -503,3 +502,4 @@ vless://583ceab3-4022-4553-9158-9bedc625ad4e@91.124.127.188:8880?allowInsecure=0
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@46.202.30.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#UA_speednode_0270
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@160.79.105.156:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=kjgx.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#US_speednode_0272
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@14.102.228.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560#US_speednode_0273
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@205.233.181.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560#US_speednode_0274
