@@ -324,4 +324,4 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.98:8880?security=none&typ
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.18:8880?security=none&type=ws&path=%2FTelegram%40WangCai2%2F%3Fed%3D2560&host=kjgx.laoyoutiao.link&sni=kjgx.laoyoutiao.link#%F0%9F%87%BA%F0%9F%87%B8US_41%20%7C5.1MB%2Fs
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.252:8880?security=none&type=ws&path=%2FTelegram%40WangCai2%2F%3Fed%3D2560&host=kjgx.laoyoutiao.link&sni=kjgx.laoyoutiao.link#%E2%9D%93Other_2%20%7C7.7MB%2Fs%7CNF
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.110:8880?security=none&type=ws&path=%2F&host=kjgx.laoyoutiao.link&sni=kjgx.laoyoutiao.link#%E2%9D%93Other_3%20%7C5.6MB%2Fs
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.126:8880?security=none&type=ws&path=%2FTelegram%40CoinTech2U2%2F%3Fed%3D2560&host=kjgx.laoyoutiao.link&sni=kjgx.laoyoutiao.link#%E2%9D%93Other_4%20%7C6.5MB%2Fs%7CNFÛM¹Ó½ô×½¸Ó
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.126:8880?security=none&type=ws&path=%2FTelegram%40CoinTech2U2%2F%3Fed%3D2560&host=kjgx.laoyoutiao.link&sni=kjgx.laoyoutiao.link#%E2%9D%93Other_4%20%7C6.5MB%2Fs%7CNFÛM¹Ó½ôÛMúß
