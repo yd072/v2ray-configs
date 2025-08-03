@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/yd072/v2ray-configs
 #profile-web-page-url: https://github.com/yd072/v2ray-configs
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@129.213.136.180:443?encryption=none&security=tls&sni=zx1.ylka.dpdns.org&type=ws&host=zx1.ylka.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@107.148.239.178:443?encryption=none&security=tls&sni=zx1.ylka.dpdns.org&type=ws&host=zx1.ylka.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@91.107.159.178:8443?encryption=none&security=tls&sni=zx1.ylka.dpdns.org&type=ws&host=zx1.ylka.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA_%E5%BE%B7%E5%9B%BD
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@91.107.251.232:443?encryption=none&security=tls&sni=zx1.ylka.dpdns.org&type=ws&host=zx1.ylka.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA_%E5%BE%B7%E5%9B%BD
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@94.23.153.167:2053?encryption=none&security=tls&sni=ax1.ylka.dpdns.org&type=ws&host=ax1.ylka.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%AB%F0%9F%87%B7_%E6%B3%95%E5%9B%BD
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@91.107.254.116:443?encryption=none&security=tls&sni=ax1.ylka.dpdns.org&type=ws&host=ax1.ylka.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA_%E5%BE%B7%E5%9B%BD
