@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/yd072/v2ray-configs
 #profile-web-page-url: https://github.com/yd072/v2ray-configs
-vless://f462ab51-54fe-4882-a119-d1c4ef7b3a64@upwork.com:2096?security=tls&type=ws&path=%2Fapi%2Fai%2Fsocket%2F%40V2RayyNGvpn%3Fed%3D2048&host=BaNG.MiRACleHearTBit.ICu.&alpn=h2&sni=baNG.MiRAclEHeaRtBit.iCU.&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6CA_1%20%7C4.9MB%2Fs%7CGPT%7CYT-CA%7CNF%7CGM%7C21%25
 vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@al-akhbar.com:443?security=tls&type=ws&path=%2F%40Rayan_Config&host=rayan-p11.parastoo.dpdns.org&sni=rAyAn-P11.PaRaStOo.dPdNs.oRg&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1PL_1%20%7C6.7MB%2Fs%7CYT-HK%7CNF%7CD%2B%7C0%25
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@13.115.232.94:443?security=tls&type=ws&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&host=edgb.esslh.filegear-sg.me&allowInsecure=1&sni=edgb.esslh.filegear-sg.me#%F0%9F%87%B3%F0%9F%87%B1NL_2%20%7C6.1MB%2Fs%7CYT-JP%7CNF%7CD%2B
 vless://db400287-fb42-441d-8a76-5624a8a96f49@104.24.196.20:443?security=tls&type=ws&path=%2F&host=rayan-roof.atena.dpdns.org&sni=rayan-roof.atena.dpdns.org&fp=chrome#%F0%9F%87%B0%F0%9F%87%BFKZ_1%20%7C5.1MB%2Fs%7CNF%7CD%2B%7CGM%7C28%25
