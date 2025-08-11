@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/yd072/v2ray-configs
 #profile-web-page-url: https://github.com/yd072/v2ray-configs
+trojan://Aimer@103.116.7.103:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5_%E6%97%A5%E6%9C%AC
+trojan://Aimer@209.94.90.87:2087?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5
+trojan://Aimer@108.165.152.91:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
 trojan://Aimer@46.254.92.191:443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA_%E4%BF%84%E7%BD%97%E6%96%AF
 trojan://Aimer@92.243.75.49:2087?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA_%E4%BF%84%E7%BD%97%E6%96%AF
 trojan://Aimer@199.34.228.178:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
