@@ -276,4 +276,4 @@ trojan://ttfang@50.62.174.216:2096?sni=ttfang.fange.me&type=ws&path=%2FTelegram%
 trojan://ttfang@72.167.230.216:2096?sni=ttfang.fange.me&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US_17%7C3.5MB%2Fs
 trojan://ttfang@74.49.214.216:2096?sni=ttfang.fange.me&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US_18%7C3.6MB%2Fs
 trojan://ttfang@72.167.25.216:2096?sni=ttfang.fange.me&allowInsecure=1&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US_19%7C3.3MB%2Fs
-trojan://ttfang@77.37.33.216:2096?sni=ttfang.fange.me&allowInsecure=1&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US_20%7C3.7MB%2FsÛM¹ÓÍ»Ów×
+trojan://ttfang@77.37.33.216:2096?sni=ttfang.fange.me&allowInsecure=1&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US_20%7C3.7MB%2FsÛM¹ÓÍ»Ó½wã
