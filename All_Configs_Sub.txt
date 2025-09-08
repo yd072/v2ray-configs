@@ -256,4 +256,4 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU18xNnwyLjlNQi9zIiwiYWRkIjoiNjIuMy4xNS4y
 trojan://slch2024@190.93.246.195:2096?sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US_17%7C2.2MB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.182.191:8388#%F0%9F%87%AD%F0%9F%87%B0HK_2%7C2.4MB%2Fs
 trojan://slch2024@188.164.159.195:2096?sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US_18%7C2.0MB%2Fs
-trojan://slch2024@188.164.158.195:2096?sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US_19%7C2.8MB%2FsÛM¹ÓÝ=Óm¶×
+trojan://slch2024@188.164.158.195:2096?sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US_19%7C2.8MB%2FsÛM¹ÓÝ=ÓwÛ
