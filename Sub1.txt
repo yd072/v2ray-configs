@@ -201,4 +201,4 @@ trojan://slch2024@162.120.94.91:2096?sni=ocost-dy.wmlefl.cc&allowInsecure=1&type
 trojan://slch2024@176.124.223.91:2096?sni=ocost-dy.wmlefl.cc&allowInsecure=1&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US_16%7C3.9MB%2Fs
 trojan://slch2024@181.214.1.91:2096?sni=ocost-dy.wmlefl.cc&allowInsecure=1&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US_17%7C2.4MB%2Fs
 trojan://slch2024@185.193.29.91:2096?sni=ocost-dy.wmlefl.cc&allowInsecure=1&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US_18%7C2.2MB%2Fs
-trojan://slch2024@185.158.133.91:2096?sni=ocost-dy.wmlefl.cc&allowInsecure=1&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US_19%7C2.1MB%2FsÛM¹ÓÝw×½wÓ
+trojan://slch2024@185.158.133.91:2096?sni=ocost-dy.wmlefl.cc&allowInsecure=1&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US_19%7C2.1MB%2FsÛM¹ÓÝw×ÝtÛ
