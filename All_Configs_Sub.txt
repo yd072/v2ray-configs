@@ -190,4 +190,4 @@ vless://934ad667-dce8-402a-aa45-3c3b52252c0a@172.66.40.99:8880?security=none&typ
 vless://27f72d40-9efd-4acc-9cda-aad772be72f6@65.21.246.137:40749?security=none&type=tcp&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%AEFI_1%7C2.9MB%2Fs
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh7lJVF8xfDMuM01CL3MiLCJhZGQiOiJ2NS5oZWR1aWFuLmxpbmsiLCJwb3J0IjoiMzA4MDUiLCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjIiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoiIiwicGF0aCI6Ii9vb29vIiwiaG9zdCI6InY1LmhlZHVpYW4ubGluayJ9
 trojan://9e76767d-4bfa-4f04-a800-42e2f63afed2@in.viefast.net:443?sni=in.viefast.net&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B3IN_1%7C4.8MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMDI4MjZjMC04YWQzLTQ0MTctODg0My02ZGEwZjVjODBjZmU=@gw.liangyuandianwan.com:35604#%F0%9F%87%BA%F0%9F%87%B8US_4%7C4.4MB%2FsÛM¹ÓÝ|ÓwÓ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMDI4MjZjMC04YWQzLTQ0MTctODg0My02ZGEwZjVjODBjZmU=@gw.liangyuandianwan.com:35604#%F0%9F%87%BA%F0%9F%87%B8US_4%7C4.4MB%2FsÛM¹ÓÝ|Ó½wÓ
