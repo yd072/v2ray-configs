@@ -278,4 +278,4 @@ vless://0ef0630e-544c-4ed0-a4de-861f14695f37@172.66.46.236:443?security=tls&type
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@104.18.3.26:2083?security=tls&type=ws&path=%2F&host=ex.sue.x10.mx&sni=ex.sue.x10.mx&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US_16%7C2.3MB%2Fs
 trojan://E]5p#2Hxe3q)t_oX@172.66.46.252:2087?sni=WEEKNdJoOn.pages.DeV&type=ws&path=%2FtrSNoMcKVNUpvSvYIS%3Fed%3D2560&alpn=http%2F1.1&fp=randomized#%F0%9F%87%BA%F0%9F%87%B8US_17%7C2.5MB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@5.44.249.42:2377/?plugin=simple-obfs%3Bobfs%3Dtls%3Bobfs-host%3D(TG%20%40WangCai2)4fa101a%3A48723#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C2.8MB%2Fs
-vless://d2965257-0536-4811-a0d5-cdce54e90326@162.159.142.252:2083?security=tls&type=ws&path=%2F%3Fed%3D2560&host=fei.634676.xyz&alpn=h3&sni=fei.634676.xyz&fp=random#%F0%9F%87%A9%F0%9F%87%AADE_3%7C4.9MB%2FsÛM¹ÓÝ»×}ß
+vless://d2965257-0536-4811-a0d5-cdce54e90326@162.159.142.252:2083?security=tls&type=ws&path=%2F%3Fed%3D2560&host=fei.634676.xyz&alpn=h3&sni=fei.634676.xyz&fp=random#%F0%9F%87%A9%F0%9F%87%AADE_3%7C4.9MB%2FsÛM¹ÓÝ»×½wÓ
