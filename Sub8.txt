@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/yd072/v2ray-configs
 #profile-web-page-url: https://github.com/yd072/v2ray-configs
+vless://7a3d2e42-3823-4b00-9818-293f7c6742ca@91.99.129.105:33667?encryption=none&flow=xtls-rprx-vision&security=reality&sni=store.steampowered.com&fp=chrome&pbk=urkddCRB1-01SWciigBk31sfccR6KZr4wX_BInUHu3o&sid=382874842551202c&type=tcp&headerType=none#@Daily_Configs
 vless://7a3d2e42-3823-4b00-9818-293f7c6742ca@zonex.md.zopli.ir:21275?security=reality&encryption=none&pbk=dNkjYxE5YiKram-ccPm9s8bGwYVakt0M-Y3I8EQKLQ4&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=e9797abf0202a439#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.160.217:443/?encryption=none&host=zula.ir&type=tcp&headerType=http#@Geek_Spot
 vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.198.174:443?security=none&encryption=none&host=zula.ir/?TELEGRAM@JOKERRVPN&headerType=http&type=tcp#@CaV2ray ⚡️
@@ -502,4 +503,3 @@ vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?path=/?ed=2560&s
 vless://9dde40ad-29f2-4a6c-b1a5-0a149f583404@zula.ir:8443?mode=multi&security=tls&alpn=h3,h2,http/1.1&encryption=none&authority=?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&fp=chrome&type=grpc&serviceName=ahwaz.infinitespd.com&sni=ahwaz.infinitespd.com#@HiByeVPNN👈⚡❤️‍🔥
 vless://9dde40ad-29f2-4a6c-b1a5-0a149f583404@zula.ir:8443?mode=multi&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=chrome&type=grpc&serviceName=ahwaz.infinitespd.com&sni=ahwaz.infinitespd.com#🇩🇪@FreakConfig
 vless://9dde40ad-29f2-4a6c-b1a5-0a149f583404@zula.ir:8443?mode=multi&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=chrome&type=grpc&serviceName=t.me/entryNET&sni=t.me/entryNET#t.me/entryNET/config=1844760916902447
-vless://9e003436-1354-4510-8dd6-5834dc1e7829@104.248.173.95:443?security=reality&encryption=none&type=xhttp#telegram 🍊 v2ray_configs_pools
