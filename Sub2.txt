@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/yd072/v2ray-configs
 #profile-web-page-url: https://github.com/yd072/v2ray-configs
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206TXpZMk5qWTBPVEF5TUdFMk5HWmhNMkkxTVdGaE1tSTJZalZqT1dKbFpEVT06T1RNMk5qazRaV0UxT0dKbU5HSXhPVGhqWkRWbVptUTNNMk5qTkRSak9URT0=@csgo-news.film2serial.cloud:28027#🇩🇪 Germany / ShadowSocks / HELIX
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206U3lEQUs3Mm9EMmV5U3NhSVFlN0Q5Z1hIdE9kZmlSNy85ZEVoVE9sODBlTT06WWw5Q0prM0lKRjY0RmMxZXNvMG1sc05pcXJOaU9aR2hDRGNpTlZtSVNIRT0=@139.162.72.96:22060#@CaV2ray ⚡️
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WDB4SnM3Qm40eVh4ZVBiUWhmc0txYzBDaUFpNWE3dGNWNkdGUEN5WVduND06TGlXTStIK1NXTXJObllaaU9qcG1PeldNVzBCTVlDQnJMQzU3TzVVYitOcz0=@212.118.42.181:9260#@AYMH19 کانال تلگرام
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206d2laamtMaXU3YWhHd0xORGdoZ1lYdHowRkhWMGxDQXFybHpqVFlUbXIvYz06ZGVtRWt5bVVrUnZHNjNFZDdGMmIxUDZwVHVHQUE5MEkwTGZLeGdiVUZkOD0=@139.162.102.16:46965#@CaV2ray ⚡️
@@ -502,4 +503,3 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.183:8880/?type=grpc&encrypt
 ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880/?type=grpc&encryption=none&flow=#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Secaucus🅿️ping:100.6ms
 ss://e4824193-4f54-453b-d037-88368e85ef0e@pqh27v4.waipdirect.shop:8880/?type=grpc&encryption=none&flow=#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Secaucus🅿️ping:101.06ms
 ss://e4824193-4f54-453b-d037-88368e85ef0e@pqh28v2.vetrkot.com:8880/?type=grpc&encryption=none&flow=#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Secaucus🅿️ping:104.63ms
-trojan://----telegram--ISVvpn----@mashti.isvcloud2.ir:1010?security=none&headerType=&type=tcp#telegram-@ISVvpn

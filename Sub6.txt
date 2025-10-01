@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/yd072/v2ray-configs
 #profile-web-page-url: https://github.com/yd072/v2ray-configs
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@104.131.95.183:59483?encryption=none&security=none&type=grpc#telegram 🍊 v2ray_configs_pools
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.71.93.149:59483?encryption=none&security=auto&type=grpc&serviceName=&flow=&sni=&fp=chrome#telegram 🍊 v2ray_configs_pools
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.99.52.237:59483?encryption=none&security=none&type=grpc#telegram 🌺 v2ray_configs_pools
 vless://47dc734a-15e8-4286-b09f-ad0404e85630@45.79.223.65:443?type=xhttp&path=/&host=&mode=stream-one&security=none#telegram 🍀 v2ray_configs_pools
@@ -502,4 +503,3 @@ vless://64d6d0d4-3706-4837-b154-cda2816adcc5@172.66.156.81:80?path=/&security=no
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@172.66.156.81:80?path=/&security=none&encryption=none&host=crazy-identity.oneeat.co&type=ws#🇳🇱@FreakConfig
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@crazy-identity.oneeat.co:80?encryption=none&security=none&type=ws&path=/#@Daily_Configs
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@crazy-identity.oneeat.co:80?path=/&security=none&encryption=none&host=crazy-identity.oneeat.co&type=ws#ALL@azadiiivpn 🤍
-vless://64d6d0d4-3706-4837-b154-cda2816adcc5@crazy-identity.oneeat.co:80?path=/&security=none&encryption=none&host=crazy-identity.oneeat.co&type=ws#MCI---11
