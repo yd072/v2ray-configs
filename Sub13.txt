@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/yd072/v2ray-configs
 #profile-web-page-url: https://github.com/yd072/v2ray-configs
-vless://e23f8d6a-b596-489c-98ac-d0d2414a71f0@104.248.194.230:80?mode=auto&path=/shahinshams?ed=2560&security=reality&encryption=none&pbk=z3dFjHp3NPxSRP51s-EJGLO0P--M4hCorPlvOQ9ksiE&host=sha834ydtrfcvshin3877.global.ssl.fastly.net&fp=chrome&spx=/&type=xhttp&sni=marzijooon.adas.monster&sid=2a70224f5466#💥اشتراک رایگان کانال @LUNAVO_VPN💥
-vless://e277ac9b-3225-4381-a9fb-3585419f7142@o3.pictour.info:443?path=/cmyklws&security=tls&encryption=none&fp=chrome&type=ws&sni=o3.pictour.info#@Daily_Configs
-vless://e277ac9b-3225-4381-a9fb-3585419f7142@o3.pictour.info:443?path=/cmyklws&security=tls&encryption=none&fp=chrome&type=ws&sni=o3.pictour.info#Channel : @Mrsoulb 🏴🏳
-vless://e31520a8-1f17-4915-9a8a-03aa9fd1be34@172.66.40.99:80?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=az138.dr-mojtaba.ir&type=ws#[🇩🇪]@configLINE
-vless://e323c1bf-9e9a-0336-961a-b813ac35fd4b@close-softmeto.ir:80?security=none&encryption=none&type=ws#@Daily_Configs
 vless://e323c1bf-9e9a-0336-961a-b813ac35fd4b@www.speedtest.net:8080?path=/&security=none&encryption=none&host=laneone.modernstore3.ir&type=ws#@vmesskhodam
 vless://e323c1bf-9e9a-0336-961a-b813ac35fd4b@www.speedtest.net:8080?path=/&security=none&encryption=none&host=laneone.modernstore3.ir&type=ws#Channel : @Mrsoulb 🏴🏳
 vless://e32fa1b1-fb85-4bca-8243-0360607b31ac@Filter5050.nabxcsjghjs2004.shop:22113?type=grpc&serviceName=&security=reality&fp=chrome&pbk=NY4vf2xmEysVkOcgDnGASs9E_kJS1QxqRo7uFSzwh3g&sni=cdn.discordapp.com&sid=a7cf4983&spx=/#Filter5050-2007
@@ -503,3 +498,8 @@ vless://ee845a26-9d15-4cac-b3a0-fc0c0c8135af@sss6000.tas-bazi.com:443?mode=strea
 vless://ee845a26-9d15-4cac-b3a0-fc0c0c8135af@sss6000.tas-bazi.com:443?mode=stream-one&path=/rty&security=none&encryption=none&type=xhttp#Telegram: @Hddify
 vless://ee845a26-9d15-4cac-b3a0-fc0c0c8135af@sss7661.tas-bazi.com:443?mode=stream-one&path=/rty&security=&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
 vless://ee845a26-9d15-4cac-b3a0-fc0c0c8135af@sss7661.tas-bazi.com:443?mode=stream-one&path=/rty&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
+vless://ee845a26-9d15-4cac-b3a0-fc0c0c8135af@sss80361.tas-bazi.com:443?mode=stream-one&path=/rty&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
+vless://eeab4027-12fd-4b1d-eb88-d531ba31ddde@136.244.86.168:2096?path=/&security=tls&encryption=none&host=speed.sarazirsina.site&headerType=none&type=ws&quicSecurity=none&sni=speed.sarazirsina.site#MTN-Free+20GB-@cconfig_v2ray
+vless://eeb94a25-8f00-458f-b857-34736edc97d4@141.227.172.59:14078?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@bored_vpn
+vless://eed712ff-17d2-4e0b-bf0b-19ff3451b97a@185.162.229.255:80?path=/Telegram🇨🇳 @WangCai2 /?ed=2560&security=&encryption=none&host=myvps.nilphreakz.me&fp=chrome&type=ws#🇺🇸 机场推荐:dafei.de 美国 248
+vless://eed712ff-17d2-4e0b-bf0b-19ff3451b97a@45.192.223.255:80?path=/Telegram🇨🇳 @WangCai2 /?ed=2560&security=&encryption=none&host=myvps.nilphreakz.me&fp=chrome&type=ws#🇺🇸 机场推荐:dafei.de 美国 74
