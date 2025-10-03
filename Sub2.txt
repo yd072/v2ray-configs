@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/yd072/v2ray-configs
 #profile-web-page-url: https://github.com/yd072/v2ray-configs
-hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@185.126.255.78:50440?sni=real.getafreenode.sbs&insecure=0#@freenettir
-hysteria2://1a8588b6-9700-4ff6-80e6-64e18f2e5336@de1.jueduibupao.top:43836?sni=de1.jueduibupao.top&insecure=1#@Daily_Configs
 hysteria2://20050105zhu@204.44.110.129:51541?security=tls&insecure=1&sni=www.bing.com#🇩🇪@FreakConfig
 hysteria2://20050105zhu@204.44.110.129:51541?sni=www.bing.com&insecure=1#@freenettir
 hysteria2://23125f6e-ec56-4c26-9714-0bbacdb53d01@185.126.255.78:50440?sni=real.getafreenode.sbs&insecure=0#@freenettir
@@ -503,3 +501,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppSjl4RFpmcGNHc0IxVVVCVjVaUlRn@213.111.132.19
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683#Irancell--@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683#🇹🇷 @FREEV2RNG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683#🇹🇷𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqODg3TTlEeFd6ZDVKcTk3MWUzWTFC@94.159.96.245:11902#🇩🇪 Frankfurt am Main, HE, Germany

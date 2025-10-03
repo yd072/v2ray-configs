@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/yd072/v2ray-configs
 #profile-web-page-url: https://github.com/yd072/v2ray-configs
+vless://e71f9e93-064e-4847-b628-f41c6e74e6cb@v01.vxlimir.com:1370?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#@CaV2ray ⚡️
+vless://e71f9e93-064e-4847-b628-f41c6e74e6cb@v02.vxlimir.com:1370?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#@CaV2ray ⚡️
 vless://e71f9e93-064e-4847-b628-f41c6e74e6cb@v03.vxlimir.com:1370?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#@CaV2ray ⚡️
 vless://e71f9e93-064e-4847-b628-f41c6e74e6cb@v04.vxlimir.com:1370?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#@CaV2ray ⚡️
 vless://e71f9e93-064e-4847-b628-f41c6e74e6cb@v05.vxlimir.com:1370?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#@CaV2ray ⚡️
@@ -501,5 +503,3 @@ vless://f8551980-11e5-4acf-a288-c8fee89ab64d@172.66.40.99:80?path=/@Shh_Proxy---
 vless://f8629dd0-239a-4a44-b4c0-8041f5e403ca@172.105.18.242:443?type=xhttp&path=/&host=&mode=stream-one&security=none#telegram 🎯 v2ray_configs_pools
 vless://f8806934-15d7-4194-9c35-ec7a140bb6f6@fast7.hvitrin.ir:48769?encryption=none&security=reality&sni=miro.com&fp=chrome&pbk=7nXyxyyn6fSlJzPO1DFmIEUV8LAmoP58-_1zP_MKo2E&sid=177f438f&spx=/&type=tcp&headerType=none#@freenettir
 vless://f8806934-15d7-4194-9c35-ec7a140bb6f6@fast7.hvitrin.ir:48769?security=reality&encryption=none&pbk=7nXyxyyn6fSlJzPO1DFmIEUV8LAmoP58-_1zP_MKo2E&headerType=none&fp=chrome&spx=/&type=tcp&sni=miro.com&sid=177f438f#@V2RAYNG_IP❤️‍🔥
-vless://f8806934-15d7-4194-9c35-ec7a140bb6f6@fast7.hvitrin.ir:48769?security=reality&encryption=none&pbk=7nXyxyyn6fSlJzPO1DFmIEUV8LAmoP58-_1zP_MKo2E&headerType=none&fp=chrome&spx=/&type=tcp&sni=miro.com&sid=177f438f#@v2rayfast_7❤️‍🔥
-vless://f8806934-15d7-4194-9c35-ec7a140bb6f6@fast7.hvitrin.ir:48769?security=reality&encryption=none&pbk=7nXyxyyn6fSlJzPO1DFmIEUV8LAmoP58-_1zP_MKo2E&host=---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---&headerType=none&fp=chrome&type=tcp&sni=miro.com&sid=177f438f#@V2rayNGVPN <= کانفیگ رایگان

@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/yd072/v2ray-configs
 #profile-web-page-url: https://github.com/yd072/v2ray-configs
-vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#azadiiivpn 🎀
-vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#🇮🇳@FreakConfig
-vless://0882a150-746a-4ba7-81b8-7922511894c5@194.87.29.240:443?security=reality&encryption=none&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=82c8140feb118043#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://08a3325b-479e-4eae-a3e8-ba35ed880786@141.227.164.136:52095?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@bored_vpn
 vless://08a54858-fe85-46cd-8a17-96deaa34f67f@172.66.40.99:443?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=azzz111.2SeDkFjEuIxIjD0eW9DvKcXoIsIeK31.BlOg&fp=chrome&type=ws&sni=azzz111.2SeDkFjEuIxIjD0eW9DvKcXoIsIeK31.BlOg#@bored_vpn
 vless://08a54858-fe85-46cd-8a17-96deaa34f67f@172.66.40.99:443?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=azzz111.2SeDkFjEuIxIjD0eW9DvKcXoIsIeK31.BlOg&fp=chrome&allowinsecure=0&type=ws&sni=azzz111.2SeDkFjEuIxIjD0eW9DvKcXoIsIeK31.BlOg#[🇩🇪]@configLINE
@@ -187,7 +184,6 @@ vless://12345678-1234-1234-1234-123456789123@194.36.55.54:2096?path=/snippets&se
 vless://12345678-1234-1234-1234-123456789123@198.71.232.44:2096?path=/snippets&security=tls&encryption=none&host=kejiland.freewarp.eu.org&fp=chrome&type=ws&sni=kejiland.freewarp.eu.org#@V2rayNGVPN <= کانفیگ رایگان
 vless://12345678-1234-1234-1234-123456789123@198.71.232.44:2096?path=/snippets&security=tls&encryption=none&host=kejiland.freewarp.eu.org&fp=chrome&type=ws&sni=kejiland.freewarp.eu.org@V2rayNGVPN <= کانفیگ رایگان
 vless://12345678-1234-1234-1234-123456789123@45.67.215.54:2096?path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#🇳🇱@FreakConfig
-vless://12345678-1234-1234-1234-123456789123@45.80.108.54:2096?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#t.me/entryNET/config=1844918577009923
 vless://12345678-1234-1234-1234-123456789123@45.80.108.54:2096?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#🇩🇪[Telegram:NetifyVpn]
 vless://12345678-1234-1234-1234-123456789123@45.80.108.54:2096?path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#@V2rayNGVPN <= کانفیگ رایگان
 vless://12345678-1234-1234-1234-123456789123@45.80.108.54:2096?path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#@vpnserverrr
@@ -195,6 +191,7 @@ vless://12345678-1234-1234-1234-123456789123@45.80.108.54:2096?path=/snippets&se
 vless://12345678-1234-1234-1234-123456789123@45.80.108.54:2096?path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#✅سرورهایبیشتردرکانال:freenettir@✅
 vless://12345678-1234-1234-1234-123456789123@45.80.108.54:2096?path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com@V2rayNGVPN <= کانفیگ رایگان
 vless://12345678-1234-1234-1234-123456789123@46.254.93.54:2096?path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#🇳🇱@FreakConfig
+vless://12345678-1234-1234-1234-123456789123@77.105.163.54:2096/?type=ws&encryption=none&flow=&host=sni.aizrf.com&path=/snippets&security=tls&sni=sni.aizrf.com#t.me/entryNET/config=1844950663024411
 vless://12345678-1234-1234-1234-123456789123@77.105.163.54:2096?path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#@vpnserverrr
 vless://12345678-1234-1234-1234-123456789123@77.105.163.54:2096?path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#✅سرورهایبیشتردرکانال:freenettir@✅
 vless://12345678-1234-1234-1234-123456789123@88.216.69.54:2096?path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#Channel : @Mrsoulb 🏴🏳
@@ -503,3 +500,6 @@ vless://21441ba7-8364-496c-d43b-39fc7f9cb8d7@direct-jde6zos4zet26b15zzd1.appcity
 vless://21441ba7-8364-496c-d43b-39fc7f9cb8d7@direct-jde6zos4zet26b15zzd1.appcity-download.ir:17337?security=none&encryption=none&headerType=none&type=tcp#@V2rayNGVPN+<=+کانفیگ+رایگان
 vless://21441ba7-8364-496c-d43b-39fc7f9cb8d7@direct-jde6zos4zet26b15zzd1.appcity-download.ir:17337?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://21441ba7-8364-496c-d43b-39fc7f9cb8d7@direct-jde6zos4zet26b15zzd1.appcity-download.ir:17337?security=none&encryption=none&headerType=none&type=tcp@V2rayNGVPN+<=+کانفیگ+رایگان
+vless://21441ba7-8364-496c-d43b-39fc7f9cb8d7@ucj3xy12fic116ixrq0m.appcity-download.ir:17337?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=none&encryption=none&headerType=none&type=tcp#🇩🇪[Telegram:NetifyVpn]
+vless://21441ba7-8364-496c-d43b-39fc7f9cb8d7@ucj3xy12fic116ixrq0m.appcity-download.ir:17337?security=&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
+vless://21441ba7-8364-496c-d43b-39fc7f9cb8d7@ucj3xy12fic116ixrq0m.appcity-download.ir:17337?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
