@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/yd072/v2ray-configs
 #profile-web-page-url: https://github.com/yd072/v2ray-configs
+vless://c319b01e-ac54-4d5c-f8b2-3fb2256c23cc@www.speedtest.net:2052?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#🇩🇪 Telegram @SRCVPN
+vless://c338c927-32d0-476c-a65d-6b632ee1d08d@tgju.org:80?path=/?ed=2048&security=none&encryption=none&host=DaNgerOus-InsTruMent.oneeat.CO&type=ws#telegram 🌟 v2ray_configs_pools
+vless://c349a35c-2a04-4ab3-a84e-0d3fa49c4186@Speedtest.net:80?mode=auto&path=/muii2096&security=none&encryption=none&host=Poormyo.global.ssl.fastly.net&type=xhttp#@Maznet-46191-1
+vless://c349a35c-2a04-4ab3-a84e-0d3fa49c4186@Speedtest.net:80?mode=auto&path=/muii2096&security=none&encryption=none&host=Poormyo.global.ssl.fastly.net&type=xhttp#@Maznet-46192-1
 vless://c349a35c-2a04-4ab3-a84e-0d3fa49c4186@Speedtest.net:80?mode=auto&path=/muii2096&security=none&encryption=none&host=Poormyo.global.ssl.fastly.net&type=xhttp#Allـ@Iran_v2ray1
 vless://c349a35c-2a04-4ab3-a84e-0d3fa49c4186@Speedtest.net:80?mode=auto&path=/muii2096?ed&security=none&encryption=none&host=Poormyo.global.ssl.fastly.net&type=xhttp#🔐 @AblNet7
 vless://c34d5607-6e39-4378-9367-fda18d4b2efb@49.13.62.117:30052?security=&encryption=none&headerType=none&type=tcp&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr
@@ -499,7 +503,3 @@ vless://dcbaf118-31cf-4148-9670-2b5d6554f669@masterserver1.heloisfood.ir:1331?mo
 vless://dcdbb1fb-ab20-447b-aa0a-7d149add2a53@91.99.97.62:51479?security=reality&encryption=none&pbk=ywnxBH4IYI83aaL9k0og1Slb9CU-eEhPypH3pXD0VSg&fp=chrome&spx=/&type=grpc&serviceName=@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM&sni=www.cdn77.com#Telegram : @VPN_ROOM🇩🇪
 vless://dcf1630c-f0bd-4d81-a128-4865df35e757@217.60.241.139:1080?security=&encryption=none&headerType=none&type=tcp#Channel id: @ShadowProxy66 🇮🇷
 vless://dcf1630c-f0bd-4d81-a128-4865df35e757@217.60.241.139:1080?security=none&encryption=none&headerType=none&type=tcp#@Daily_Configs
-vless://dcf1630c-f0bd-4d81-a128-4865df35e757@q4214fa.novintec99.ir:45655?security=reality&encryption=none&pbk=BZMabNUxkVRkm_K22kLZruvXlPBfGlHHdazco4cvvxo&headerType=none&fp=chrome&type=tcp&sni=refersion.com#Channel id: @ShadowProxy66 🇩🇪
-vless://dd1436ee-8b67-4d9d-9bc4-6f9029a40328@138.199.199.55:666?encryption=none&security=none&type=tcp&headerType=none#@Daily_Configs
-vless://dd1436ee-8b67-4d9d-9bc4-6f9029a40328@138.199.199.55:666?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=none&encryption=none&headerType=none&type=tcp#🇩🇪[Telegram:NetifyVpn]
-vless://dd1436ee-8b67-4d9d-9bc4-6f9029a40328@138.199.199.55:666?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
