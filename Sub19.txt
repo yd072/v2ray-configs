@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/yd072/v2ray-configs
 #profile-web-page-url: https://github.com/yd072/v2ray-configs
+
 hysteria2://413c8b50-96bf-4457-82f2-54dfa8685f53@185.126.255.78:47230/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
 hysteria2://45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e@172.252.236.213:43649/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
@@ -59,7 +60,7 @@ hysteria2://62616dc7-6757-478f-b420-a63c3c5af8d0@mg1.aeccghuyjftyg.shop:20000?ob
 
 hysteria2://62616dc7-6757-478f-b420-a63c3c5af8d0@mg1.aeccghuyjftyg.shop:20000?obfs=salamander&obfs-password=fdrccJDGatdFDDRp&insecure=0#%E2%98%81%EF%B8%8F%E7%BE%8E%E5%9B%BD3
 
-hysteria2://62616dc7-6757-478f-b420-a63c3c5af8d0@mg1.aeccghuyjftyg.shop:20000?obfs=salamander&obfs-password=fdrccJDGatdFDDRp&insecure=0#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A478.42%20GB
+hysteria2://62616dc7-6757-478f-b420-a63c3c5af8d0@mg1.aeccghuyjftyg.shop:20000?obfs=salamander&obfs-password=fdrccJDGatdFDDRp&insecure=0#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A443.93%20GB
 
 hysteria2://62616dc7-6757-478f-b420-a63c3c5af8d0@mg1.aeccghuyjftyg.shop:20000?obfs=salamander&obfs-password=fdrccJDGatdFDDRp&insecure=0#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2026-10-08
 
@@ -502,4 +503,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943444955046930.birjand-drc-tusa
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638941610778724075.helsinki-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%A8%F0%9F%87%B5Telegram%3Atik7net_vpn`
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943444955046930.birjand-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#Telegram+%3A+%40V2rayEnglish`
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931272656134408.malayer-drc-tusabu.info:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇷]t.me/Yasvipn
-vless://1ede815e-b941-4232-9a43-57821d473ec4@141.227.164.187:57923/?type=grpc&encryption=none&flow=&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%F0%9F%AA%AD21%40oneclickvpnkeys
