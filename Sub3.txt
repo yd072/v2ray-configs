@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/yd072/v2ray-configs
 #profile-web-page-url: https://github.com/yd072/v2ray-configs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@18.162.146.85:8313#🇭🇰𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@18.162.146.85:8316#VayNora
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@18.162.146.85:8316#🇮🇹 - @FREEV2RNG 18
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptNkRGQ0V6UmFDUEtQUjV6QzJ3VHlaY0xCOGphU2tnQ3lPam50YkdEcHJvelRkb08=@185.246.153.12:31348#🇳🇱 - @FREEV2RNG 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptU1FpdVQ1alIxN255V2djWE9QclRX@77.105.166.12:8594#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWkdVRldNQWxmV3FJNHZQNTh6dzlEQUh4UjhUWkxuZEtrdlJnSEhGYTllcVdkbng=@65.21.243.22:31348#@AYMH19 کانال تلگرام
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#✅ @v2ray_configs_pools (تلگرام)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -31,7 +26,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#🇦🇺 - @FREEV2RNG 2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#🇳🇱@AZARBAYJAB1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#@AYMH19 کانال تلگرام
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Noord)🅿️ping:27.04ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#@EXPRESSVPN_420:🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#@IRAN_V2RAY1
@@ -155,11 +149,13 @@ ss://YWVzLTI1Ni1nY206ZDcwZWY4YjUtNjA0OC00YzBkLWJlNGQtZmM2MDM5OWIwZjQ1@77.110.110
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@162.251.63.124:8881#@awlix_ir
 ss://YWVzLTI1Ni1nY206blI1RDJaWk9Mcg==@67.230.161.36:57753#@vpnserverrr جوین شید
 ss://YWVzLTI1Ni1nY206d043bU1XN1dSdDUta1c1bVRzRDREQQ==@ss.sps1.sbs:20#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-ss://cef05993-4bb5-4eab-8ea1-acfe0bfbf4c7@kaz.friendlypetsclub.uk:443?security=reality&encryption=none&pbk=VlD2T4Q29Y3ryW9Ky2vs8QtciKr5IitfejmgWzYJsAA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=5dCC84Ad#👉🆔@freenettir📡🇰🇿®️Kazakhstan©️Karaganda🅿️ping:78.42ms
+ss://aacc5b6e-a680-11f0-b85b-52540015e6ea@yofree.top:443?type=tcp&security=reality&pbk=AWyicEDYi7KB3qzo8OEvEd1HK0gZhCHAENBd_buyhQk&fp=chrome&sni=yofree.top&sid=fa2f&spx=/&flow=xtls-rprx-vision#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Lelystad🅿️ping:29.57ms
+ss://c297710c-ac33-4817-a8ff-2368d76dc6b0@84.201.4.247:15919?security=reality&type=tcp&headerType=none&path=EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-bia-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420&host=&sni=refersion.com&fp=chrome&pbk=Q7B94qjnMk48_2054jmhOKdPbqRkyUbLIHSNLb8Zz2w&sid#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main (Frankfurt-Ost)🅿️ping:30.75ms
+ss://c297710c-ac33-4817-a8ff-2368d76dc6b0@84.201.4.247:15919?security=reality&type=tcp&headerType=none&path=EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-bia-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420&host=&sni=refersion.com&fp=chrome&pbk=Q7B94qjnMk48_2054jmhOKdPbqRkyUbLIHSNLb8Zz2w&sid=90#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main (Frankfurt-Ost)🅿️ping:30.75ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#@awlix_ir
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.235.122:8080#@awlix_ir
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.142:8880?mode=gun&security=&encryption=none&type=grpcÂ¬e=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#👉🆔@freenettir📡🇫🇷®️France©️Paris🅿️ping:86.41ms
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.37.43:8880/?mode=gun&security=&encryption=none&type=grpc#👉🆔@freenettir📡🇬🇧®️United Kingdom©️Coventry🅿️ping:62.82ms
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.94:8880?encryption=none&security=none&type=grpc#👉🆔@freenettir📡🇫🇷®️France©️Paris🅿️ping:71.85ms
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638955452903725333.malayer-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=@V2rayNGVPN+<=+کانفیگ+رایگان#👉🆔@freenettir📡🇬🇧®️United Kingdom©️London🅿️ping:70.23ms
 ss://eyJhZGQiOiI1Ny4xMjkuNjQuMjM4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJrYXBlbGxlbmcuY29tIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkNoYW5uZWwgaWQ6IEBTaGFkb3dQcm94eTY2IPCfh6nwn4eqIiwic2N5IjoiYXV0byIsInNuaSI6ImthcGVsbGVuZy5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 ss://eyJhZGQiOiI5MS45OS4xNTMuMzkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InBhbmVsLmFydXNoYXNvZnQuY29tIiwiaWQiOiI5ODVhZjQ4OS1mYjE2LTQ5MWEtODEzYy1mZGQ5MWI2YjA2ZWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjM5MTMwIiwicHMiOiJDaGFubmVsIGlkOiBAU2hhZG93UHJveHk2NiDwn4ep8J+HqiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 trojan://----telegram--ISVvpn----@mashti.isvcloud2.ir:1010?security=none&headerType=&type=tcp#telegram-@ISVvpn
@@ -199,6 +195,7 @@ trojan://Bw5Mz7QkVp@95.179.245.249:443?security=tls&sni=z-v2-080537.kailib.com&t
 trojan://CXCu72eya8wFeRySSFpDz3CN6jBYac5OIl3q0gSl8xZOADY3EK94pxZanDA3RT@35.77.216.3:443?security=tls&sni=broker.superpokemon.com&allowInsecure=1&type=tcp#@awlix_ir
 trojan://DJprIqUa4b@mashti.isvcloud2.ir:1010?security=none&headerType=&type=tcp#telegram-@ISVvpn
 trojan://DJprIqUa4b@mashti.isvcloud2.ir:1010?security=none&headerType=none&type=tcp#telegram-@bored_vpn
+trojan://Join-Daily_Configs@104.21.69.44:443?security=tls&type=ws&sni=kanale-daily-configs.blackoutconnection.ir&path=/TELEGRAM:@Daily_Configs?ed=2560&host=kanale-daily-configs.blackoutconnection.ir#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:27.86ms
 trojan://NeA9Y8cXve@flopr.isvcloud2.ir:36022?security=none&headerType=&type=tcp#telegram@ISVvpn
 trojan://OSXRComila@91.107.252.182:26805?type=tcp&security=none#telegram-@ISVvpn
 trojan://PKsmz7W2sx@mashti.isvcloud2.ir:1010?type=tcp&path=/ISVvpn&host=fonts.gstatic.com&headerType=http&security=none#telegram-@ISVvpn
@@ -482,7 +479,7 @@ vless://0943cb18-a760-42c2-95e0-a8c75bfecbc2@185.234.64.97:443?path=/lmhdjfws?ed
 vless://0943cb18-a760-42c2-95e0-a8c75bfecbc2@185.234.64.97:443?path=/lmhdjfws?ed=2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&security=tls&encryption=none&type=ws#@HiByeVPNN👈⚡❤️‍🔥
 vless://0943cb18-a760-42c2-95e0-a8c75bfecbc2@185.234.64.97:443?path=/lmhdjfws?ed=2048HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot&security=tls&encryption=none&type=ws#@HiByeVPNNBot 👈🌿💎
 vless://0943cb18-a760-42c2-95e0-a8c75bfecbc2@185.234.64.97:443?path=/lmhdjfws?ed=2048HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot&security=tls&encryption=none&type=ws#@V2rayNGVPN+<=+کانفیگ+رایگان
-vless://0943cb18-a760-42c2-95e0-a8c75bfecbc2@185.234.64.97:443?path=/lmhdjfws?ed=2048HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot&security=tls&encryption=none&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:89.64ms
+vless://0943cb18-a760-42c2-95e0-a8c75bfecbc2@185.234.64.97:443?path=/lmhdjfws?ed=2048HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot&security=tls&encryption=none&type=ws@V2rayNGVPN+<=+کانفیگ+رایگان
 vless://094af2f8-b421-4d0c-a96c-00625147a30c@63.141.128.13:8080?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=c.jOin.zEdMoDeOn.oNl.&type=ws#@IRAN_V2RAY1
 vless://09703cf7-a8d3-48ed-a2a5-daf853a6078d@m60a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@Selinc
 vless://09703cf7-a8d3-48ed-a2a5-daf853a6078d@m60a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#rt
@@ -503,3 +500,6 @@ vless://0ac849bf-7d42-4619-b741-41124c601fb2@c1.vact.ir:443?path=Telegram-FILTER
 vless://0b23f113-6bd4-42a6-887c-a47381f06f5c@deu106.worldunbound.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#Allـ@Iran_v2ray1
 vless://0b2b00c2-be56-4be6-abda-5e329afb7bce@37.156.44.111:443?security=reality&encryption=none&pbk=b_hJSqrd_USUBlX5A9-iJTBd0qndoAH9DW3Ct-HpGxc&headerType=none&fp=chrome&type=tcp&sni=chess.com&sid=4d01fba3#@Selinc
 vless://0b2b00c2-be56-4be6-abda-5e329afb7bce@37.156.44.111:443?security=reality&encryption=none&pbk=b_hJSqrd_USUBlX5A9-iJTBd0qndoAH9DW3Ct-HpGxc&headerType=none&fp=chrome&type=tcp&sni=chess.com&sid=4d01fba3#MCI-@IRAN_V2RAY1
+vless://0b2b00c2-be56-4be6-abda-5e329afb7bce@37.156.44.111:443?security=reality&encryption=none&pbk=b_hJSqrd_USUBlX5A9-iJTBd0qndoAH9DW3Ct-HpGxc&headerType=none&fp=chrome&type=tcp&sni=chess.com&sid=4d01fba3#🇨🇭[Telegram:@EXPRESSVPN_420]
+vless://0b2b00c2-be56-4be6-abda-5e329afb7bce@37.156.44.111:443?security=reality&encryption=none&pbk=b_hJSqrd_USUBlX5A9-iJTBd0qndoAH9DW3Ct-HpGxc&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=chess.com&sid=4d01fba3#Bya To @IRAN_V2RAY1
+vless://0b2b00c2-be56-4be6-abda-5e329afb7bce@37.156.44.111:443?security=reality&encryption=none&pbk=b_hJSqrd_USUBlX5A9-iJTBd0qndoAH9DW3Ct-HpGxc&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&fp=chrome&type=tcp&sni=chess.com&sid=4d01fba3#@i10VPN 🚀| با ما متصل بمون⚡
