@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/yd072/v2ray-configs
 #profile-web-page-url: https://github.com/yd072/v2ray-configs
-vless://0f65a4ee-ac15-4451-8b37-72230181c06c@cdnjs.com:443?security=tls&sni=rAyAn-cOnFiG-ca-1.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-ca-1.pArIsA.DpDnS.OrG&encryption=none#@Rayan_Config%201.1
-
-vless://0f65a4ee-ac15-4451-8b37-72230181c06c@glassdoor.com:443?security=tls&sni=rAyAn-cOnFiG-ca-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-ca-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%201.10
 
 vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@adf.ly:443?security=tls&sni=rAyAn-007.pArViN.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-007.parvin.dpdns.org&encryption=none#Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://vs-worker-creator.rayan.dpdns.org%0A-%20Or%20-%20https://tj-worker-creator.rayan.dpdns.org
 
@@ -279,10 +276,6 @@ hysteria2://55ca7a9e-cf90-49df-b14a-9346c59b73b9@104.250.239.32:49425/?sni=real.
 
 hysteria2://55ca7a9e-cf90-49df-b14a-9346c59b73b9@185.126.255.78:48892/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
-hysteria2://5eaa121d-4362-444d-8219-29b02c35303a@104.250.239.32:49425/?sni=real.getafreenode.sbs#Fremont-GetAFreeNode
-
-hysteria2://5eaa121d-4362-444d-8219-29b02c35303a@185.126.255.78:48892/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
-
 hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@104.250.239.32:49425/?sni=real.getafreenode.sbs#Fremont-GetAFreeNode
 
 hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@185.126.255.78:48892/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
@@ -503,3 +496,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.157-0189
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.110:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.158.171.110-0187
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.193-5391
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@151.242.251.144:8080#%F0%9F%87%A6%F0%9F%87%AAAE-151.242.251.144-0188
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.178:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.178-0198
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.177:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.177-0205
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.185.174:989#%F0%9F%87%AB%F0%9F%87%B7FR-195.154.185.174-0206
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#%F0%9F%87%A8%F0%9F%87%BFCZ-195.181.160.6-0226
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@109.61.46.43:990#%F0%9F%87%B1%F0%9F%87%BALU-109.61.46.43-0208
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.131:8080#%F0%9F%87%A6%F0%9F%87%AAAE-151.242.251.131-0200
