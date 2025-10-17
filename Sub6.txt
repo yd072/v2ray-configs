@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/yd072/v2ray-configs
 #profile-web-page-url: https://github.com/yd072/v2ray-configs
+vless://2aff3c47-ccdc-4c17-b726-73539e2103b2@all71-vip.f-sub.com:4928?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@Daily_Configs
+vless://2aff3c47-ccdc-4c17-b726-73539e2103b2@all71-vip.f-sub.com:4928?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@Hddify
 vless://2aff3c47-ccdc-4c17-b726-73539e2103b2@all71-vip.f-sub.com:4928?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#r♡ya
 vless://2aff3c47-ccdc-4c17-b726-73539e2103b2@all71-vip.f-sub.com:4928?security=none&encryption=none&host=varzesh3.com/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@MARAMBASHI 😍
 vless://2aff3c47-ccdc-4c17-b726-73539e2103b2@all71-vip.f-sub.com:4928?security=none&encryption=none&host=varzesh3.com/?BIA_TELEGRAMV2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz&headerType=http&type=tcp#r♡ya
@@ -501,5 +503,3 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&securi
 vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#🇬🇧𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.133.1.227:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#All-@IRAN_V2RAY1
 vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.202.193:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh36v4.hiddendom.shop#All--@IRAN_V2RAY1
-vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.202.193:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh36v4.hiddendom.shop#All-@IRAN_V2RAY1
-vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#@IRAN_V2RAY1--All
