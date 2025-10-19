@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/yd072/v2ray-configs
 #profile-web-page-url: https://github.com/yd072/v2ray-configs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLRXF6MnRFS0l6RmFmOHB1TFcwc1p3@217.26.28.205:1080?note=--Telegram--@NetifyVPN--#👉🆔@freenettir📡🇷🇺®️Russia©️Pushchino🅿️ping:29.94ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLRXF6MnRFS0l6RmFmOHB1TFcwc1p3@217.26.28.205:1080?note=--Telegram--NetifyVPN--#👉🆔@freenettir📡🇷🇺®️Russia©️Pushchino🅿️ping:29.94ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLTGtGSkg1SzhseHZhY3V3QmNXaDZE@188.214.36.221:8443#@Hddify
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLTGtGSkg1SzhseHZhY3V3QmNXaDZE@188.214.36.221:8443#Channel id: @ShadowProxy66 🇪🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLTGtGSkg1SzhseHZhY3V3QmNXaDZE@188.214.36.221:8443#ک
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLTGtGSkg1SzhseHZhY3V3QmNXaDZE@188.214.36.221:8443#کانال تلگرامی ما : @skypro_vpn
@@ -500,6 +503,3 @@ trojan://c16a577c-1dbd-41b0-90c7-d7177ce0bd1f@194.147.33.207:443?mode=auto&path=
 trojan://d0728e94-82c2-456b-b5d4-eeab540599df@172.67.192.215:443?path=/Free-VPN-CF-Geo-Project/AE5&security=tls&host=joss.krikkrik.xyz&fp=chrome&type=ws&sni=joss.krikkrik.xyz#@meli_proxyy
 trojan://dqLPBI4gsI@s.isvspeedtest.ir:1010?type=tcp&path=/ISVvpn&host=fonts.gstatic.com&headerType=http&security=none#telegram-@ISVvpn
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443?path=/aioproxybot/129.150.49.58-18650&security=tls&host=aio.zipzap.biz.id&type=ws&sni=aio.zipzap.biz.id#@IRAN_V2RAY1
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&type=ws&sni=vpn.stupidworld.web.id#All-@IRAN_V2RAY1
-trojan://fi1DPGOQ0I34PYZfaYyTvQ@91.107.172.48:443?security=tls&headerType=none&type=tcp&sni=de.v2bazzar.ir#@IRAN_V2RAY1
-trojan://fi1DPGOQ0I34PYZfaYyTvQ@91.107.172.48:443?security=tls&headerType=none&type=tcp&sni=www.twitch.tv#@IRAN_V2RAY1
