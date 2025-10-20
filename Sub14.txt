@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/yd072/v2ray-configs
 #profile-web-page-url: https://github.com/yd072/v2ray-configs
-vless://d9d0c290-d31b-4696-a130-ca1ab549d377@cloudcdn2.parsgit.com:4220?path=/tools.parspack.com/hp.shoushmobile.ir?ed=2095-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=nettr.parsgit.com.&type=httpupgrade#🇹🇷 | @𝙎𝙆𝙔𝙋𝙍𝙊_𝙑𝙋𝙉
-vless://d9d0c290-d31b-4696-a130-ca1ab549d377@cloudcdn3.parsgit.com:4040?path=/admin?ed=1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webde3.parsgit.com.&type=ws#@V2rayNGVPN <= کانفیگ رایگان
-vless://d9d0c290-d31b-4696-a130-ca1ab549d377@cloudcdn3.parsgit.com:4040?path=/admin?ed=1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webde3.parsgit.com.&type=ws#🇩🇪 | @𝙎𝙆𝙔𝙋𝙍𝙊_𝙑𝙋𝙉
-vless://d9d0c290-d31b-4696-a130-ca1ab549d377@cloudcdn3.parsgit.com:4040?path=/admin?ed=1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webfl.parsgit.com.&type=ws#@V2rayNGVPN <= کانفیگ رایگان
-vless://d9d0c290-d31b-4696-a130-ca1ab549d377@cloudcdn3.parsgit.com:4040?path=/admin?ed=1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webfl.parsgit.com.&type=ws#🇫🇮 | @𝙎𝙆𝙔𝙋𝙍𝙊_𝙑𝙋𝙉
 vless://d9d0c290-d31b-4696-a130-ca1ab549d377@cloudcdn3.parsgit.com:4040?path=/admin?ed=1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webtr.parsgit.com.&type=ws#@V2rayNGVPN <= کانفیگ رایگان
 vless://d9d0c290-d31b-4696-a130-ca1ab549d377@cloudcdn3.parsgit.com:4040?path=/admin?ed=1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=none&encryption=none&host=webtr.parsgit.com.&type=ws#🇹🇷 | @𝙎𝙆𝙔𝙋𝙍𝙊_𝙑𝙋𝙉
 vless://d9d7de85-cfb2-4ba8-9cf3-6354090cafa6@194.182.79.100:42438?security=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048&encryption=none#@awlix_ir
@@ -271,7 +266,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.89:8880?mode=gun&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.89:8880?mode=gun&security=none&encryption=none&type=grpc#IR-@IRAN_V2RAY1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.89:8880?mode=gun&security=none&encryption=none&type=grpc#mtnirancell ✨️ azadiiivpn
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?encryption=none&security=none&type=grpc#@Daily_Configs
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?encryption=none&security=none&type=grpc#t.me/entryNET/config=1846308928408001
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?encryption=none&security=none&type=grpc#✅ @vistav2ray  👈👈کانال ما
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?encryption=none&type=grpc&mode=gun&security=none#🇹🇷@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?mode=gun&security=&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#🇹🇷@FreakConfig
@@ -503,3 +497,9 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.82:8880?mode=gun&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.89:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#@Hddify
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.89:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#@V2RAYROZ
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.89:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#@meli_proxyy
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.91:8880?encryption=none&security=none&fp=chrome&type=grpc#@Daily_Configs
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.91:8880?mode=gun&security=&encryption=none&fp=chrome&type=grpc#🇫🇷@FreakConfig
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.91:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#@meli_proxyy
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.91:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#ALL@azadiiivpn 💞
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.91:8880?security=&encryption=none&fp=chrome&type=grpc#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.92:8880?encryption=none&security=none&type=grpc#@Daily_Configs
