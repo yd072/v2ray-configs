@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/yd072/v2ray-configs
 #profile-web-page-url: https://github.com/yd072/v2ray-configs
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.155:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AFR
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.193:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3ALT
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.100:80?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AUS
 vmess://eyJhZGQiOiI1MS4yNTUuMTczLjEyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY2MDg2MTVjLTAzZmUtNDcyYy05YWVlLTk3MzkxOTQ2MDk1YiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTUwIiwicHMiOiI+PkBGcmVha0NvbmZpZzo6RlIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.98:80?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AUS
@@ -502,4 +500,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.155:8880?security=&fp=ch
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.160:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2070
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.195:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%208
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.213:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%207
 
