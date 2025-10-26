@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/yd072/v2ray-configs
 #profile-web-page-url: https://github.com/yd072/v2ray-configs
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.253:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2092
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.246.85.62:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2091
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.205:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2090
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.38:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2089
 
@@ -503,3 +498,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.239.250:990#%F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBbnhNZmoyb0wyUmFaVFFWZlZkNUVZ@194.87.45.189:443#%40V2_MOD_SHOP%20-%20%F0%9F%87%AA%F0%9F%87%B8%20%E2%9A%A1%20%7C
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.47:8880?mode=gun&security=none&encryption=none&authority=%3Fed%3D2048Jo&type=grpc#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
 vless://02efda19-4437-4d67-ad4f-3ca613dd80b1@kifpool.me:443?path=%2FkuF4zJYa4FBeudGb%3Fed%3D2560&security=tls&encryption=none&host=mdrN.paGes.Dev&type=ws&sni=mdrN.paGes.Dev#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@38.165.231.25:990#%F0%9F%9B%B3%F0%9F%9B%B6%F0%9F%8F%84%E2%80%8D%E2%99%801
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
+vless://7c8cf438-8d5a-4ce9-bc1c-88345a545f2f@185.68.244.86:42545?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%9B%B3%F0%9F%9B%B6%F0%9F%8F%84%E2%80%8D%E2%99%808
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.166.102:990#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
+vless://f8be92b6-b31f-4d8b-ba7d-20781595fa0e@194.87.80.9:8081?security=reality&encryption=none&pbk=nID_kfSoZPfWS1XZUT1dZnR2mwaoRtUROtBpmqCWEiQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=d0a3f84aabd21574#%40Daily_Configs

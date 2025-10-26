@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/yd072/v2ray-configs
 #profile-web-page-url: https://github.com/yd072/v2ray-configs
-vless://95260b6a-e711-455c-d273-3439ca210d44@www.speedtest.net:2052?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@vmessorg
 vless://954d1793-c8f9-45df-942e-04e98ecdcc72@172.66.40.99:8880?type=ws&path=/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN?ed=2048&host=websocket.network.www.speedtest.net.flutter.dev.russia.python.carwash-vip.xyz.&security=none#84eec1wm
 vless://9560e246-c399-4b54-ba6c-3184576ff217@pscresearch.faculty.ucdavis.edu:80?mode=auto&path=/&security=none&encryption=none&host=xiliunlimited.global.ssl.fastly.net&type=xhttp#@𝗦𝗞𝗬𝗣𝗥𝗢_𝗩𝗣𝗡
 vless://9560e246-c399-4b54-ba6c-3184576ff217@pscresearch.faculty.ucdavis.edu:80?type=xhttp&encryption=none&path=/&host=xiliunlimited.global.ssl.fastly.net&mode=auto&security=none#t.me/entryNET/config=1847023015404012
@@ -503,3 +502,4 @@ vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@74.119.192.12:443?path=/&security=t
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.103:2096?path=/&security=tls&encryption=none&type=ws#🇺🇸𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.110:2096?path=/&security=tls&encryption=none&type=ws#🇺🇸 MCI - @FREEV2RNG 13
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.194:2096?path=/&security=tls&encryption=none&type=ws#🇺🇸𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.240:443?path=/&security=tls&encryption=none&type=ws#🇺🇸 MCI - @FREEV2RNG 11
