@@ -3,19 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/yd072/v2ray-configs
 #profile-web-page-url: https://github.com/yd072/v2ray-configs
-vless://d4e52293-4a82-404c-ac29-93afc006dcbb@45.194.53.52:443?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=http%2F1.1&encryption=none&host=crolindd.dearcarlotta.cloudns.org&fp=chrome&type=ws&sni=crolindd.dearcarlotta.cloudns.org#@meli_proxyy
-vmess://eyJhZGQiOiI1Ny4xMjkuMjguNjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZhcGVuZy5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiIoQFZtZXNzUHJvdG9jb2wp2KjYsdin24wg2K7YsduM2K8g2Ygg2KfYqti12KfZhCDYr9in2KbZhduMINis2YjbjNmGINi02Yjwn4ep8J+HqiIsInNjeSI6ImF1dG8iLCJzbmkiOiJmYXBlbmcub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiI1Ny4xMjguMTg5LjI1MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoia2FwZWxsZW5nLmNvbSIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJDaGFubmVsIGlkOiBAcHJveHlfa2FmZWXwn4es8J+HpyIsInNjeSI6ImF1dG8iLCJzbmkiOiJrYXBlbGxlbmcuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiI1Ny4xMjkuMjguMjE2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJmYXBlbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQ2hhbm5lbCBpZDogQHByb3h5X2thZmVl8J+HqfCfh6oiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiI1Ny4xMjkuMjUuMjIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im8ubWV0dWppLmNvbSIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJAcHJveHlfa2FmZWXwn4ep8J+HqiIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiI1Ny4xMjkuMjguNjkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImJhcmFkaWhhLmNvbSIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJAcHJveHlfa2FmZWXwn4ep8J+HqiIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A8%F0%9F%87%A6
-vless://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#@meli_proxyy
-vless://b4a29ec1-5569-4ff3-aca2-8183e26fbfe2@104.18.26.90:2096?path=%2Frsjcbpws&security=tls&encryption=none&host=638874929583359846.zagreb-prx-dnraaad.info&type=ws&sni=638874929583359846.zagreb-prx-dnraaad.info#@meli_proxyy
-vless://90d7db9b-972b-4073-8738-12cf42124260@104.19.247.78:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=kawaiifreevpn.pages.dev&fp=chrome&type=ws&sni=kawaiifreevpn.pages.dev#%F0%9F%87%AE%F0%9F%87%B3telegram%20%E2%9E%A0%20%40v2rayNG_Matsuri
-vless://a9c9c197-c626-4667-f219-1575f26715ac@tgju.org:80?encryption=none&security=none&type=ws&host=fin.channel.digicyber.click&path=%2Folem%2Fws%3Fed%3D1024#%40Daily_Configs
-vless://a9c9c197-c626-4667-f219-1575f26715ac@www.speedtest.net:80?encryption=none&security=none&type=ws&host=fin.channel.digicyber.click&path=%2Folem%2Fws%3Fed%3D1024#%40Daily_Configs
-vless://0fbecce1-acf9-4b6e-a0f7-f48be9d2b7d0@www.speedtest.net:443?path=%2Flinkws%3Fed%3D2560&security=tls&encryption=none&host=MAxNETvipAp-cloUD252.nEtKh3.site&type=ws&sni=MAxNETvipAp-cloUD252.nEtKh3.site#@meli_proxyy
 vless://ffcf7ec1-3e09-4821-b3d9-b426a107b73b@172.67.157.220:443?path=%2FO9jlBCbIm3xr1D40NK&security=tls&alpn=http%2F1.1&encryption=none&host=xxcsdert6.777159.xyz&fp=chrome&type=ws&sni=XXCsDERT6.777159.XyZ#@meli_proxyy
 vless://9368b093-d790-4096-9d8a-1265e82f9e2f@172.66.47.15:443?path=%2FTelegram%40proxy_mtm%2F%3Fed%3D2560&security=tls&encryption=none&host=GgGgr.PaGES.dEV&fp=chrome&type=ws&sni=GgGgr.PaGES.dEV#@meli_proxyy
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@104.18.26.90:2096?path=%2F&security=tls&encryption=none&host=JuOf8QfKy3.VpBeThOrVp002.InFo&type=ws&sni=JuOf8QfKy3.VpBeThOrVp002.InFo#@meli_proxyy
@@ -149,7 +136,6 @@ hy2://a060b3f7-551e-4a7f-8138-fef404c5b012@212.192.15.176:33079/?insecure=1&obfs
 hy2://dongtaiwang.com@51.159.111.32:5355/?insecure=1&sni=www.bing.com#Channel id: @ShadowProxy66🇫🇷
 hy2://dongtaiwang.com@51.159.111.32:5355/?insecure=1&sni=www.bing.com&note=@freeOnlineVPN#🇫🇷 - FR - @freeOnlineVPN
 hy2://eb86def3-d6ff-4582-9ecd-3cf61812640e@banmabanmabanmabanmabanmabanma2.wanlidag.top:54265/?insecure=1&sni=banmabanmabanmabanmabanmabanma2.wanlidag.top#Channel id: @ShadowProxy66🇩🇪
-hy2://eb86def3-d6ff-4582-9ecd-3cf61812640e@banmabanmabanmabanmabanmabanma2.wanlidag.top:54265/?insecure=1&sni=banmabanmabanmabanmabanmabanma2.wanlidag.top&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
 hy2://fabd2b79-693a-4a37-827c-6d299e8813b1@133.18.163.202:443/?mport=50000-55000&insecure=1&sni=www.microsoft.com#Channel id: @ShadowProxy66🇯🇵
 hysteria2://10822856-7452-43ec-b35b-6f24ea33530f@chervhill.hajalii.com:29662?obfs=salamander&obfs-password=xFGh9dsyreJV9sMs1RUnFbwRdon&sni=chervhill.hajalii.com&insecure=0#@Mr_Config_Group✌️
 hysteria2://20050105zhu@204.44.110.129:51541?security=tls&insecure=1&sni=www.bing.com#All-@V2rayAlpha--16
@@ -251,7 +237,6 @@ hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@185.92.220.240:30205?security=t
 hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@185.92.220.240:30205?security=tls&obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2&insecure=1&sni=net2025.afsharidempire.uk&note=@freeOnlineVPN#🇳🇱 - NL - @freeOnlineVPN
 hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@185.92.220.240:30205?sni=net2025.afsharidempire.uk&obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2&insecure=1&note=@freeOnlineVPN#🇳🇱 - NL - @freeOnlineVPN
 hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@[2001:19f0:5001:5b:5400:5ff:fe8e:c12]:30205?security=tls&obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2&insecure=1&sni=net2025.afsharidempire.uk#All--@V2rayAlpha--4
-hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@net2025.afsharidempire.uk:30205?insecure=1&sni=net2025.afsharidempire.uk&obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2&note=@freeOnlineVPN#🇳🇱 - NL - @freeOnlineVPN
 hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@net2025.afsharidempire.uk:30205?security=tls&obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2&insecure=1&sni=net2025.afsharidempire.uk#All--@V2rayAlpha--8
 hysteria2://8d80603a-d7d7-4bcd-ad88-aaf1cf70b8c6@836902-20.9966661.xyz:3000?security=tls&insecure=0&sni=836902-20.9966661.xyz#🔐 @AblNet7 🇺🇸 机场推荐
 hysteria2://8da7bd17-70ab-472d-a925-cc827857dc35@de.youyacloud.me:443?security=tls&obfs=salamander&obfs-password=qBbeISsJ8AK48fZW&insecure=1&mport=30101-30199&sni=de.youyacloud.me#All-@IRAN_V2RAY1
@@ -276,7 +261,6 @@ hysteria2://Telegram-->@Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&obfs=
 hysteria2://Telegram-->@Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&obfs=salamander&obfs-password=Telegram-->@Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#WI-FI--@IRAN_V2RAY1
 hysteria2://Telegram-->@Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&obfs=salamander&obfs-password=Telegram-->@Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#telegram--MTMVPN 21
 hysteria2://Telegram-->@Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&obfs=salamander&obfs-password=Telegram-->@Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#🇳🇱@FreakConfig
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&note=@freeOnlineVPN#🇳🇱 - NL - @freeOnlineVPN
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&note=@freeOnlineVPN#🇳🇱 - NL - @freeOnlineVPN
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.irr♡ya&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&note=@freeOnlineVPN#🇳🇱 - NL - @freeOnlineVPN
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#All--@V2rayAlpha--6
@@ -286,8 +270,6 @@ hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=sa
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?sni=YAPC-1.afshin.irr♡ya&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&note=@freeOnlineVPN#🇳🇱 - NL - @freeOnlineVPN
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&note=@freeOnlineVPN#🇳🇱 - NL - @freeOnlineVPN
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&note=@freeOnlineVPN#🇳🇱 - NL - @freeOnlineVPN
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir&note=@freeOnlineVPN#🇳🇱 - NL - @freeOnlineVPN
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&note=@freeOnlineVPN#🇳🇱 - NL - @freeOnlineVPN
 hysteria2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:35200?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#All--@V2rayAlpha--8
 hysteria2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:35200?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#telegram--MTMVPN 12
 hysteria2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:36400?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#@IRAN_V2RAY1
@@ -412,9 +394,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.240:48172#@vmesskhodam
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VFpud1BiMjNwUVMzOWxJdWNzcEp3@89.35.119.87:5904#@Mrconfig_Channel 🩵
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VFpud1BiMjNwUVMzOWxJdWNzcEp3@89.35.119.87:5904#@V2rayNGVPN <= کانفیگ رایگان
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VFpud1BiMjNwUVMzOWxJdWNzcEp3@fin.outlinebot1.ru:5904#Bya To @IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Ynl6aU51TWllc3pCbjRodVFNak1a@81.90.31.219:443#@AblNet7 🇮🇷 نت ملی 🇮🇶
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Ynl6aU51TWllc3pCbjRodVFNak1a@81.90.31.219:443?note=@freeOnlineVPN#🇷🇺 - RU - @freeOnlineVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2aFZvd2pjYzgycDZOdTlVdk9YaGhG@39.104.68.204:8443#🇨🇳1@vpnserverrr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTE1UTBvam9qQkY3bWMyRjdLTGtO@77.83.246.74:443#@AblNet7 🇮🇷 نت ملی 🇵🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDFkZGNlZC1lNmVlLTQxNzUtOWMxYS1lNTI0MDA5ZjkwNDU=@144.126.146.38:30100#WiFi-@V2rayAlpha--2
@@ -425,6 +407,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZWMzMTczZC00OWFkLTQ5YzktOTViYS05NjMxZGY4Yzc
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZWMzMTczZC00OWFkLTQ5YzktOTViYS05NjMxZGY4Yzc3OTA=@89.213.193.87:40008#UK - telegram  | @vpnserverrr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3emU1M1NucmxvU0hIaE5TZ0wxQ2Z3@91.107.172.48:1080#@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4RGl1Y1Y5Tll6dkdTV0NmTi1lTVJR@46.62.214.228:1080#All---@IRAN_V2RAY1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4SDl1dkVUeDVrVzZmRTFienlEZGFk@81.19.141.45:443#Channel id: @ShadowProxy66🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4SVBqZFpGWDhIR3hiaFZOOVF3MnRC@77.83.246.74:443#@AblNet7 🇮🇷 نت ملی 🇵🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5SmVZeThTa1ZpWHVTSFZzOUdGZVNl@77.110.110.117:443#@AYMH19 کانال تلگرام
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5SmVZeThTa1ZpWHVTSFZzOUdGZVNl@77.110.110.117:443#All-@V2rayAlpha--5
@@ -443,7 +426,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ejRYb1MwVGZ6eE5zU3FCVkFXdDdO@83.147.216.70:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTovWVZXT0YrVGlJcmZkUFVyenJ3U2RGazVLRFBTdDJPR3hiZjR2UnlBOElZPQ==@167.71.195.230:56399#🇺🇸 - @FREEV2RNG 17
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMzI0MQ==@sgmob222.asuscomm.com:8899#@AblNet7 🇮🇷 نت ملی 🇸🇬
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMzI0MQ==@sgmob222.asuscomm.com:8899#🏴‍☠️@FreakConfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMzI0MQ@112.199.240.56:8899#Channel id: @ShadowProxy66🇸🇬
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMzI0MQ@112.199.240.56:8899#🔐 @AblNet7 🇸🇬
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowRFk4ekJqdHhQM1k=@85.208.139.203:443#@v2ray_configs_pools👈⚡❤️‍🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowRFk4ekJqdHhQM1k=@85.208.139.203:443#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -455,7 +437,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@promo1o.bystri
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@promo1o.bystrivpn.ru:443#⚜️Telegram: @EXPRESSVPN_420
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZ2haa09SdlY0Z3J2ZWtESjlXY2dl@172.238.21.121:64919#🇯🇵[Telegram:@tik7net_vpn] ss-JP
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZ2haa09SdlY0Z3J2ZWtESjlXY2dl@172.238.21.121:64919#🇯🇵[Telegram:tik7net_vpn] JP
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZ2haa09SdlY0Z3J2ZWtESjlXY2dl@172.238.21.121:64919?note=--Telegram--@NetifyVPN--#🇯🇵[Telegram:NetifyVpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUFJpMTF6b2lsM3hEU1lJTkhtbHh0@81.19.141.45:443#@AYMH19 کانال تلگرام
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUFJpMTF6b2lsM3hEU1lJTkhtbHh0@81.19.141.45:443#🇩🇪 - @FREEV2RNG 7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.154:8080#All-@V2rayAlpha--3
@@ -483,6 +464,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyQUdwcW1mbFVVSkh0QlVwcTRpQ1Vm@134.255.210.20
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToySW5rMGdqaUZBZk42alFNbjJKQjZ2@77.83.246.74:443#@AblNet7 🇮🇷 نت ملی 🇵🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg==@216.250.97.118:443#@awlix_ir
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToybktubXVhblU5SVVBSWFDLWhKanJ3@89.106.69.224:1085#t.me/entryNET/config=1846971418847777
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToybktubXVhblU5SVVBSWFDLWhKanJ3@89.106.69.224:1085#🇩🇪24@vpnserverrr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToybktubXVhblU5SVVBSWFDLWhKanJ3@89.106.69.224:1085#🇩🇪[Telegram:@tik7net_vpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToybktubXVhblU5SVVBSWFDLWhKanJ3@89.106.69.224:1085#🚀شادوساکس
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToybktubXVhblU5SVVBSWFDLWhKanJ3@89.106.69.224:1085?note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
@@ -495,7 +477,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@185.193.102.7:57456#@meli_proxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@185.193.102.7:57456#All--@V2rayAlpha--1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@185.193.102.7:57456#All-@V2ray_Alpha--40
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@185.193.102.7:57456#Channel id: @ShadowProxy66🇫🇮
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@185.193.102.7:57456#🇷🇴 - @FREEV2RNG 4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#@Mrconfig_Channel 🩵
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#@Selinc
@@ -503,3 +484,22 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#@V2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#All-@V2rayAlpha--2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#IR-@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#IR-@V2ray_Alpha--1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#V2_Open 🇷🇺
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.144.49.140:57456#@AYMH19 کانال تلگرام
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@us.vmagnum.win:57456#@meli_proxyy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@us.vmagnum.win:57456#All-@V2rayAlpha--1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOGYzNDMxMmM3M2FjYWUy@135.125.219.2:25930#@AYMH19 کانال تلگرام
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOGYzNDMxMmM3M2FjYWUy@135.125.219.2:25930#All-@V2rayAlpha--7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOGYzNDMxMmM3M2FjYWUy@135.125.219.2:25930#WiFi-@IRAN_V2RAY1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOGYzNDMxMmM3M2FjYWUy@135.125.219.2:25930#WiFi-@V2rayAlpha--4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozUG5NMGNEc3FEbXM0QUNZVkUwNFoy@194.87.45.189:443#🇩🇪 - @FREEV2RNG 15
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0SmxFV2gyUHpETWV3OHFvOVlrUEVB@38.180.105.12:443#@AblNet7 🇮🇷 نت ملی
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0SmxFV2gyUHpETWV3OHFvOVlrUEVB@38.180.105.12:443#@V2rayNGVPN <= کانفیگ رایگان
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0SmxFV2gyUHpETWV3OHFvOVlrUEVB@38.180.105.12:443#🇹🇷[Telegram:@tik7net_vpn]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0SmxFV2gyUHpETWV3OHFvOVlrUEVB@38.180.105.12:443?note=@freeOnlineVPN#🇹🇷 - TR - @freeOnlineVPN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Z0tsczg2Skh5N2NKUFVsbmtXcE5a@46.246.97.245:2340#t.me/entryNET/config=1846982743194507
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Z0tsczg2Skh5N2NKUFVsbmtXcE5a@46.246.97.245:2340?note=--Telegram--@NetifyVPN--#🇸🇪[Telegram:NetifyVpn]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Z0tsczg2Skh5N2NKUFVsbmtXcE5a@46.246.97.245:2340?note=@freeOnlineVPN#🇸🇪 - SE - @freeOnlineVPN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Z0tsczg2Skh5N2NKUFVsbmtXcE5a@46.246.97.245:2340?note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇸🇪]t.me/Raiv2mmr
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0b2d0WU5EZlBWeno=@185.242.247.149:443#@AblNet7 🇮🇷 نت ملی 🇫🇮
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0b2d0WU5EZlBWeno=@185.242.247.149:443#@HiByeVPNN👈🌿💎
