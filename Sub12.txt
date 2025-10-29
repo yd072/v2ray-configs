@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/yd072/v2ray-configs
 #profile-web-page-url: https://github.com/yd072/v2ray-configs
-vless://9e003436-1354-4510-8dd6-5834dc1e7829@157.180.88.25:443?security=reality&encryption=none&type=xhttp#telegram 🌈 v2ray_configs_pools
-vless://9e003436-1354-4510-8dd6-5834dc1e7829@173.208.51.18:443?security=reality&encryption=none&type=xhttp#telegram ⚡️ v2ray_configs_pools
-vless://9e003436-1354-4510-8dd6-5834dc1e7829@173.208.51.18:443?security=reality&encryption=none&type=xhttp#telegram 🚀 v2ray_configs_pools
 vless://9e003436-1354-4510-8dd6-5834dc1e7829@188.245.185.225:443?security=reality&encryption=none&type=xhttp#telegram 🌈 v2ray_configs_pools
 vless://9e003436-1354-4510-8dd6-5834dc1e7829@188.245.185.225:443?security=reality&encryption=none&type=xhttp#telegram 🌟 v2ray_configs_pools
 vless://9e003436-1354-4510-8dd6-5834dc1e7829@209.97.184.36:443?encryption=none&security=reality&sni=&type=xhttp&alpn=&host=&path=#telegram ⚡️ v2ray_configs_pools
@@ -503,3 +500,6 @@ vless://afe821e2-75a2-4b94-8960-c3f180c24d3e@nl.pickvpn.live:443?security=realit
 vless://afe821e2-75a2-4b94-8960-c3f180c24d3e@nl01.pickvpn.live:443?security=reality&encryption=none&pbk=SfaN19bzY1LdAGU1cIOAW8YU2XaInYxMgonHlC_mTgg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com#@meli_proxyy
 vless://afe821e2-75a2-4b94-8960-c3f180c24d3e@nl01.pickvpn.live:443?security=reality&encryption=none&pbk=SfaN19bzY1LdAGU1cIOAW8YU2XaInYxMgonHlC_mTgg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com#🇳🇱@FreakConfig
 vless://afe84c72-1b4c-442c-915a-a80f43c45e3b@172.66.40.99:2095?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=none&encryption=none&host=test3.amin8263.ir&type=ws#@TEHRANARGO
+vless://afe84c72-1b4c-442c-915a-a80f43c45e3b@172.66.40.99:2095?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=none&encryption=none&host=test3.amin8263.ir&type=ws#@bored_vpn
+vless://afe84c72-1b4c-442c-915a-a80f43c45e3b@172.66.40.99:2095?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=none&encryption=none&host=test3.amin8263.ir&type=ws#@mehrosaboran
+vless://afe84c72-1b4c-442c-915a-a80f43c45e3b@172.67.146.171:2095?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=none&encryption=none&host=test3.amin8263.ir&type=ws#@TEHRANARGO

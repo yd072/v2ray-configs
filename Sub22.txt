@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/yd072/v2ray-configs
 #profile-web-page-url: https://github.com/yd072/v2ray-configs
-vless://401374e6-df77-41fb-f638-dad8184f175b@pqh30v5.ipforvetra.shop:80?security=&encryption=none&type=grpc#%3E%3E%40DailyV2RY%3A%3AXX
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@192.241.240.130:59483?encryption=none&type=grpc#%3E%3E%40DailyV2RY%3A%3AUS
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638971749163276577.rome-drcn-aaaaa.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 vless://a02fd758-c58b-48a8-bfb3-2b451ab44bb5@colin.ns.cloudflare.com:443?encryption=none&security=tls&sni=638971674693810969.brussels-prmpl-aaaad.com&type=ws&host=638971674693810969.brussels-prmpl-aaaad.com&path=/fiedpnws#%3E%3E%40DailyV2RY%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638971880245562150.mashhad-blkaft-aaax.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
@@ -503,3 +501,5 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959700852258728.esfahan-blkaft-a
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.100:80?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#%3E%3E%40v2rayngvpn%3A%3AXX
 ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE=@54.81.226.31:80#%3E%3E%40v2nodes%3A%3AUS
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=%2F&security=tls&encryption=none&alpn=h3,h2&host=smart.trevanda.info&fp=chrome&type=ws&sni=smart.trevanda.info#%3E%3E%40v2rayngvpn%3A%3AXX
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.247:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%3E%3E%40v2rayngvpn%3A%3AXX
+vmess://eyJ2IjoiMiIsInBzIjoiPj5AdjJub2Rlczo6SEsiLCJhZGQiOiJub2RlMi5tYW5nZ2luZy5jb20iLCJwb3J0IjoxMDA1NSwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJ0bHMiLCJpZCI6IjM1M2Q0YzEzLWE3NTYtNDZkZC1iYTZmLTNkZmVjZmViMzdmYyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
