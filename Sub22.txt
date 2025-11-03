@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/yd072/v2ray-configs
 #profile-web-page-url: https://github.com/yd072/v2ray-configs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#>>@configV2rayNG::RU
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@103.106.228.247:990#>>@outlinevpnofficial::JP
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@103.75.119.38:990#>>@free4allVPN::XX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@109.61.39.28:990#>>@free4allVPN::KZ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3c2NBZklQdVROUm1tc1UxRTJJajhs@77.83.246.74:443#>>@shadowproxy66::XX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@138.186.142.80:990#>>@free4allVPN::PA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@147.78.1.230:990#>>@outlinevpnofficial::XX
@@ -502,4 +498,8 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.183:8880?security=&fp=c
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.188:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2078
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.191:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20146
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.192:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20158
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.193:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2048
 
