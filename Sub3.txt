@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/yd072/v2ray-configs
 #profile-web-page-url: https://github.com/yd072/v2ray-configs
-hysteria2://IZ3V4BlqjL@rema.3dfigures.ir:23398?security=tls&insecure=1&obfs=salamander&obfs-password=telegram@v2raybluecrystaltelegram@v2raybluecrystaltelegram@v2raybluecrystaltelegram@v2raybluecrystaltelegram@v2raybluecrystaltelegram@v2raybluecrystaltelegram@v2raybluecrystaltelegram@v2raybluecrystal&fastopen=0#rema2
 hysteria2://IZ3V4BlqjL@rema.3dfigures.ir:48979?security=tls&insecure=1&obfs=salamander&obfs-password=telegram@v2raybluecrystaltelegram@v2raybluecrystaltelegram@v2raybluecrystaltelegram@v2raybluecrystaltelegram@v2raybluecrystaltelegram@v2raybluecrystaltelegram@v2raybluecrystaltelegram@v2raybluecrystal&fastopen=0#rema
 hysteria2://JOh7tQHdp8@191.96.11.107:48361?security=tls&insecure=1#@Daily_Configs
 hysteria2://Jj0FrgSd85@165.140.166.78:17083?fastopen=0&insecure=1&obfs=salamander&obfs-password=v2raybluecrystal2#v2raybluecrystal2-la
@@ -503,3 +502,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#🇳🇱@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080?note=@freeOnlineVPN#🇳🇱 - NL - @freeOnlineVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#@V2rayNG3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@war.ssvpnapp.win:57456#@Mrconfig_Channel 🩵

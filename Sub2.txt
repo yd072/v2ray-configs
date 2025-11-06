@@ -3,19 +3,15 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/yd072/v2ray-configs
 #profile-web-page-url: https://github.com/yd072/v2ray-configs
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvS0+8J+HrPCfh6dfR0Jf6Iux5Zu9XzIiLCJhZGQiOiJsZDIuc2hhYmlqaWNoYW5nLmNvbSIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiJjNDU4Njk1ZC02OTA4LTQ1YzMtOTUxMi1lMGM0NjQxODQ1NGMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJsZDIuc2hhYmlqaWNoYW5nLmNvbSIsInRscyI6IiJ9
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvS0+8J+HrvCfh7NfSU5f5Y2w5bqmXzEiLCJhZGQiOiIxMDQuMTcuMTguMjYiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiNTE4MDQ0NGEtNDc1Ni00M2I0LTk2MGItNDllYjkwNTJlNGU4IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvS0+8J+HrvCfh7NfSU5f5Y2w5bqmXzIiLCJhZGQiOiIxMDQuMjYuOC40NCIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiI1MTgwNDQ0YS00NzU2LTQzYjQtOTYwYi00OWViOTA1MmU0ZTgiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvS0+8J+HrvCfh7NfSU5f5Y2w5bqmXzMiLCJhZGQiOiJtbTIuc2hhYmlqaWNoYW5nLmNvbSIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiJjNDU4Njk1ZC02OTA4LTQ1YzMtOTUxMi1lMGM0NjQxODQ1NGMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJtbTIuc2hhYmlqaWNoYW5nLmNvbSIsInRscyI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvS0+8J+HrvCfh7NfSU5f5Y2w5bqmXzQiLCJhZGQiOiJtbTMuc2hhYmlqaWNoYW5nLmNvbSIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiJjNDU4Njk1ZC02OTA4LTQ1YzMtOTUxMi1lMGM0NjQxODQ1NGMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJtbTMuc2hhYmlqaWNoYW5nLmNvbSIsInRscyI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvS0+8J+Hs/Cfh7FfTkxf6I235YWwIiwiYWRkIjoiNDUuMTk5LjEzOC4xOTEiLCJwb3J0IjoiMzAwMDAiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcGF0aC8xNjk2MjUxNTIyNDM4IiwiaG9zdCI6IiIsInRscyI6InRscyJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvS0+8J+HuPCfh6ZfU0Ff5rKZ54m56Zi/5ouJ5LyvIiwiYWRkIjoiamQzLnNoYWJpamljaGFuZy5jb20iLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiYzQ1ODY5NWQtNjkwOC00NWMzLTk1MTItZTBjNDY0MTg0NTRjIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiamQzLnNoYWJpamljaGFuZy5jb20iLCJ0bHMiOiIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6og55Ge5YW4IFYyQ1JPU1MuQ09NIiwiYWRkIjoiMTg1LjE0Ni4xNzMuMjQiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiZDk2N2ZmY2EtZGU5MC00ZGFhLWJkMDAtZDUyN2U1YmFlMTFmIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8/QklBX1RFTEVHUkFNIChAQVpBUkJBWUpBQjEpIFRNIChAQVpBUkJBWUpBQjEpIFRNIChAQVpBUkJBWUpBQjEpIFRNIChAQVpBUkJBWUpBQjEpIFRNIChAQVpBUkJBWUpBQjEpIFRNIChAQVpBUkJBWUpBQjEpIiwiaG9zdCI6Imdvb2dsZS53aGF0c2FwcC5zbmFwcC50b3JvYi5iYXNhbGFtLmxlb3Nob3BwaW5nNzcuaXIuIiwidGxzIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvV8xIiwiYWRkIjoiMjA2LjE2OC4xOTAuMjE5IiwicG9ydCI6IjIwODIiLCJ0eXBlIjoibm9uZSIsImlkIjoiZTMxY2E3NTAtNzFmNy0xMWVlLWI5MjAtMTIzOWQwMjU1MjcyIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii92bXdzIiwiaG9zdCI6IiIsInRscyI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvV8yIiwiYWRkIjoid25kMi5zaGFiaWppY2hhbmcuY29tIiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImM0NTg2OTVkLTY5MDgtNDVjMy05NTEyLWUwYzQ2NDE4NDU0YyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6InduZDIuc2hhYmlqaWNoYW5nLmNvbSIsInRscyI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvV8zIiwiYWRkIjoiNDUuMTk5LjEzOC4xODYiLCJwb3J0IjoiMzAwMDAiLCJ0eXBlIjoibm9uZSIsImlkIjoiNGVjMGFlNjItZGUwOS00MDI5LTkwNGEtMDMxM2Q0NjI4ZWNmIiwiYWlkIjoiNjQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcGF0aC8xNjk2NjgyNzIwMTM4IiwiaG9zdCI6IiIsInRscyI6InRscyJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvV80IiwiYWRkIjoid25kMy5zaGFiaWppY2hhbmcuY29tIiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImM0NTg2OTVkLTY5MDgtNDVjMy05NTEyLWUwYzQ2NDE4NDU0YyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6InduZDMuc2hhYmlqaWNoYW5nLmNvbSIsInRscyI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvV81IiwiYWRkIjoiMTA0LjIxLjc1LjI0NiIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiJjNDU4Njk1ZC02OTA4LTQ1YzMtOTUxMi1lMGM0NjQxODQ1NGMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9IENsb3VkRmxhcmXoioLngrkiLCJhZGQiOiJjZi4wOTAyMjcueHl6IiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiIyOTBjYzY5MS0zYWM2LTQzODctOThhMS0yNWM4ZWI4Y2EyZWEiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJzZ2FsLmRhZ3JhdGUuZXUub3JnIiwidGxzIjoidGxzIn0=
 
 vmess://ewogICAgICAgICAgICAidiI6ICIyIiwKICAgICAgICAgICAgInBzIjogIuabtOaWsOS6jiAxMS0wNyAwMDo0MiBieSBodHRwczovL2dpdGh1Yi5jb20vdHMtc2YvZmx5IiwKICAgICAgICAgICAgImFkZCI6ICIxMjcuMS4xLjEyNyIsCiAgICAgICAgICAgICJwb3J0IjogIjgwIiwKICAgICAgICAgICAgImlkIjogIjYwMjczNmU0LWEyZTgtNGViMy05ZmM5LTdjNzA4MjkyNTM2NSIsCiAgICAgICAgICAgICJhaWQiOiAiMCIsCiAgICAgICAgICAgICJzY3kiOiAiYXV0byIsCiAgICAgICAgICAgICJuZXQiOiAidGNwIiwKICAgICAgICAgICAgInR5cGUiOiAibm9uZSIsCiAgICAgICAgICAgICJob3N0IjogIiIsCiAgICAgICAgICAgICJwYXRoIjogIiIsCiAgICAgICAgICAgICJ0bHMiOiAiIiwKICAgICAgICAgICAgInNuaSI6ICIiLAogICAgICAgICAgICAiYWxwbiI6ICIiLAogICAgICAgICAgICAiZnAiOiAiIgogICAgICAgICAgfQogICAgICAgIA==
 trojan://BxceQaOe@36.150.215.239:24392?#%F0%9F%87%A8%F0%9F%87%B3CN%E4%B8%AD%E5%9B%BD
@@ -140,7 +136,7 @@ hysteria2://UnYCJJ9AQy@146.19.56.21:28165?insecure=1&obfs=salamander&obfs-passwo
 hysteria2://UnYCJJ9AQy@146.19.56.21:57418?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal2#v2raybluecrystal2-hou
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig%20%233
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig%20%234
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%40IRAN_V2RAY1%20%235
+hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40freeOnlineVPN%20%238
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%40Daily_Configs%20%231
 hysteria2://Ys1Z1iA996@78.138.118.228:22527?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#v2raybluecrystal2%20%231
 hysteria2://Ys1Z1iA996@78.138.118.228:33113?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#v2raybluecrystal3%20%231
@@ -149,12 +145,15 @@ hysteria2://YwuvGJk36B@81.168.83.89:2083?insecure=1&sni=kotlet.arshiacomplus.dpd
 hysteria2://ab858115-e0ab-4cb7-8e65-0804c35e52d5@nl2.oomz.ru:30000?insecure=1&sni=bing.com#%40Selinc%20%235
 hysteria2://ab858115-e0ab-4cb7-8e65-0804c35e52d5@us4.oomz.ru:30000?insecure=1&sni=bing.com#%40Selinc%20%236
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?insecure=1&sni=jnir.pichondan.com&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40freeOnlineVPN%20%2311
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@dir.cybsecguru.com:35000?insecure=1&sni=jnir.pichondan.com&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig%20%235
-hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899?insecure=1&sni=hl01.mistea.top#%E2%9C%85%20%40vistav2ray%20%20%F0%9F%91%88%F0%9F%91%88%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?insecure=1&sni=jnir.pichondan.com&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#All--%40V2rayAlpha-0
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@dir.cybsecguru.com:35000?insecure=1&sni=jnir.pichondan.com&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40freeOnlineVPN%20%2312
+hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899?insecure=1&sni=hl01.mistea.top#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@38.45.89.97:23892?insecure=1&sni=fus02.mistea.top#All-%40V2rayAlpha--1
 hysteria2://c3054d61-c708-4594-9797-f50acd24de2a@qing-es.mxtn.net:443?insecure=1#WiFi-%40V2rayAlpha--7
 hysteria2://c3054d61-c708-4594-9797-f50acd24de2a@qing-kz.mxtn.net:443?insecure=1#%40sunflowerplato%F0%9F%8C%BB%20%233
 hysteria2://c3054d61-c708-4594-9797-f50acd24de2a@qing-lu.mxtn.net:443?insecure=1#WiFi-%40V2rayAlpha--6
+hysteria2://d3da4e16-9bef-4e54-9bd9-960d32740392@sb1.oomz.ru:30000?insecure=1&sni=bing.com#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig%20%236
+hysteria2://d3da4e16-9bef-4e54-9bd9-960d32740392@sb2.oomz.ru:30000?insecure=1&sni=bing.com#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig%20%237
 hysteria2://dongtaiwang.com@46.17.41.189:50717?insecure=1&sni=www.bing.com#%40V2rayNG3%20%2316
 hysteria2://dongtaiwang.com@51.159.111.32:5355?insecure=1&sni=www.bing.com#All--%40V2rayAlpha--1
 hysteria2://e2QEtNgU9v@5.133.102.59:13222?insecure=1&obfs=salamander&obfs-password=xfvg@FFG#v2raybluecrystal4-tur
@@ -503,3 +502,4 @@ hysteria2://AtTK3tiEA0@p1.punchline.ir:44929?security=tls&obfs=salamander&obfs-p
 hysteria2://F6HtMurQGt@185.211.101.15:16666?fastopen=0&insecure=1&obfs=salamander&obfs-password=v2raybluecrystal2#v2raybluecrystal2-ger
 hysteria2://F6HtMurQGt@185.211.101.15:20358?fastopen=0&insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#v2raybluecrystal-ger
 hysteria2://F6HtMurQGt@185.211.101.15:48233?fastopen=0&insecure=1&obfs=salamander&obfs-password=v2raybluecrystal3#v2raybluecrystal3-ger
+hysteria2://IZ3V4BlqjL@rema.3dfigures.ir:23398?security=tls&insecure=1&obfs=salamander&obfs-password=telegram@v2raybluecrystaltelegram@v2raybluecrystaltelegram@v2raybluecrystaltelegram@v2raybluecrystaltelegram@v2raybluecrystaltelegram@v2raybluecrystaltelegram@v2raybluecrystaltelegram@v2raybluecrystal&fastopen=0#rema2

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/yd072/v2ray-configs
 #profile-web-page-url: https://github.com/yd072/v2ray-configs
-vless://63005378-e32e-4e23-bc6e-84812f147a6f@172.66.44.118:443?path=/VrChX4o5oasIm4In?ed=2560&security=tls&encryption=none&host=configmr.pages.dev&fp=chrome&type=ws&sni=ConFIgmr.PaGeS.dEV#join Sho @Iran_V2ray1
 vless://63564ab9-67d5-4ac7-a806-dd4c4fcdba2b@151.101.3.8:80?type=xhttp&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#@TEHRANARGO
 vless://63564ab9-67d5-4ac7-a806-dd4c4fcdba2b@151.101.3.8:80?type=xhttp&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#@bored_vpn
 vless://63564ab9-67d5-4ac7-a806-dd4c4fcdba2b@151.101.3.8:80?type=xhttp&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#🇩🇪 | XpnTeam - Telegrams-68imfrnd
@@ -503,3 +502,4 @@ vless://79d0f0c1-c428-4e80-c988-bd6783a3a39f@172.67.146.171:2095?type=ws&encrypt
 vless://79d0f0c1-c428-4e80-c988-bd6783a3a39f@test2.amin8263.ir:2095?type=ws&encryption=none&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=test3.amin8263.ir&security=none#🇩🇪 | XpnTeam - Telegrams-oo977jsu
 vless://79d53c0e-9aee-433a-bcb9-bf9c9f75ba1c@104.17.147.22:443?path=/?ed=2560&security=tls&alpn=h3&encryption=none&fp=chrome&type=ws&sni=q.qdio008.workers.dev#Channel : @Mrsoulb 🏴🏳
 vless://7a0b6c85-ce1f-4de0-acd4-9e368d74f415@85.239.149.76:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=st.ozone.ru&security=reality&pbk=4efItvVkLuH2AdiaNzDIzmyHT3yE4uWcql1L3xEPXko&sid=f0e1d8d8d83346e8#@networld_vpn
+vless://7a3d2e42-3823-4b00-9818-293f7c6742ca@91.99.129.105:33667?security=reality&encryption=none&pbk=urkddCRB1-01SWciigBk31sfccR6KZr4wX_BInUHu3o&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=382874842551202c#MCI-@V2rayAlpha--13
