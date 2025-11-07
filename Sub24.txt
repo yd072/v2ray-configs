@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/yd072/v2ray-configs
 #profile-web-page-url: https://github.com/yd072/v2ray-configs
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.77:80?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40PlanB_net%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%86%94
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.183:8880?mode=gun&security=none&encryption=none&type=grpc#BESTIIVPNBOT%20%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.232:8880?mode=gun&security=none&encryption=none&type=grpc#BESTIIVPNBOT%20%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.232:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40PlanB_net%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%86%94
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.22:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40PlanB_net%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%86%94
-hysteria2://308d37dc-cfe1-4d81-a095-d576f90cf581@85.237.206.207:29854?security=tls&insecure=1&sni=www.bing.com#%40V2_MOD_SHOP%20-%20%F0%9F%87%B9%F0%9F%87%BC%20%E2%9A%A1%20%7C
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMEF1U1NFOWtxclpucEsxUmdjdVB0@78.40.116.11:50589#%F0%9F%87%B8%F0%9F%87%AA%5BTelegram%3A%40tik7net_vpn%5D`
 vless://733872e5-216c-43d9-857a-439c785b732b@80.253.251.120:10855?security=reality&encryption=none&pbk=hk3sUKfstfF_BeEDm7yjFLaTpnsFxP0uCio1pMJZ3Ug&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=420d8dc134ef46eb#%F0%9F%AA%B6%F0%9F%AA%B6%F0%9F%AA%B66
 vless://7556317c-dff6-46e8-ad29-b408f2a6456e@5.10.214.253:2096?encryption=none&security=tls&sni=vless.muzheng.top&fp=chrome&type=ws&path=%2F#%40Daily_Configs
