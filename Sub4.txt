@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/yd072/v2ray-configs
 #profile-web-page-url: https://github.com/yd072/v2ray-configs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@104.192.226.106:990#All-@V2rayAlpha--2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@104.192.226.106:990#WiFi-@V2rayAlpha--4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#@meli_proxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.90.63.193:990#@awlix_ir
@@ -503,3 +502,4 @@ vless://03fc8922-b80e-4aff-91e9-2023a17ed647@www.speedtest.net:2082?path=/@spike
 vless://040c7fc7-65aa-440e-864e-8c89b91bf63c@91.107.141.204:5030?mode=gun&security=reality&encryption=none&authority=&pbk=u-PCnNfSY3DvfouSNpGvowXrB3bkaC8gZkQsryP-3Vs&fp=chrome&type=grpc&serviceName=SARDAR&sni=MAp.GooGlE.COM&sid=0db32cc0cc8078a9#@V2rayNG3
 vless://040ec06e-60c8-4818-a46e-eb17cf310606@104.21.62.144:443?type=xhttp&mode=auto&path=/Sauron/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=tls&fp=chrome&sni=sauron.melkore.ir&alpn=h3,h2,http/1.1#🇳🇱 | @Evay_vpn
 vless://0413976d-7077-42c2-d40c-7e4c735b2095@www.speedtest.net:2082?mode=auto&path=/@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android&security=&encryption=none&host=code.yas-nowin.ir&type=xhttp#🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠همه اپراتورها
+vless://041b0e57-d4f6-4332-8296-a06a046241fc@turkey8.yourbot.me:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=reality&encryption=none&pbk=OBKACuWea1rLl-_caAlsIu_V40AGwisGpq84qQwWRks&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ftp.debian.org&sid=a26808#🇹🇷[Telegram:NetifyVPN]
